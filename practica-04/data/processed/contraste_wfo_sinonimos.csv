@@ -1,0 +1,59 @@
+nombre_consultado,aceptado_gbif,aceptado_wfo,resultado,observacion,afecta_grupo_ipcc,fecha_consulta
+Acacia loretensis,Senegalia loretensis,Senegalia loretensis,COINCIDE,,No,2026-11-17
+Acacia nilotica,Vachellia nilotica,Vachellia nilotica,COINCIDE,,No,2026-11-17
+Albizia distachya,Paraserianthes lophantha,Paraserianthes lophantha,COINCIDE,,No,2026-11-17
+Albizia pedicellaris,Balizia pedicellaris,Hydrochorea pedicellaris,DIFIERE,Distinto género aceptado,No,2026-11-17
+Aniba amazonica,Aniba puchury-minor,Aniba puchury-minor,COINCIDE,,No,2026-11-17
+Aniba gigantifolia,Aniba hostmanniana,Aniba hostmanniana,COINCIDE,,No,2026-11-17
+Aniba rosiodora Ducke,Aniba rosodora,Aniba rosaeodora,COINCIDE,Variante ortográfica del mismo nombre,No,2026-11-17
+Arundinaria alpina K.Schum.,Oldeania alpina,Oldeania alpina,COINCIDE,,No,2026-11-17
+Borojoa claviflora,Alibertia claviflora,Alibertia claviflora,COINCIDE,,No,2026-11-17
+Brosimum guianense (Aubl.) Huber,Brosimum guianense,Brosimum guianense,COINCIDE,,No,2026-11-17
+Buchenavia grandis Ducke,Terminalia grandis,Terminalia grandis,COINCIDE,,No,2026-11-17
+Caesalpinia echinata,Paubrasilia echinata,Paubrasilia echinata,COINCIDE,,No,2026-11-17
+Caesalpinia paipai,Libidibia glabrata,Libidibia glabrata,COINCIDE,,No,2026-11-17
+Caesalpinia spinosa,Tara spinosa,Tara spinosa,COINCIDE,,No,2026-11-17
+Calliandra calothyrsus,Calliandra houstoniana,Calliandra calothyrsus,DIFIERE,WFO acepta el nombre registrado,No,2026-11-17
+Capirona decorticans Spruce,Capirona macrophylla,Capirona macrophylla,COINCIDE,,No,2026-11-17
+Capparis scabrida Kunth,Colicodendron scabridum,Morisonia scabrida,DIFIERE,Distinto género aceptado,No,2026-11-17
+Cariniana decandra Ducke,Allantoma decandra,Allantoma decandra,COINCIDE,,No,2026-11-17
+Caryocar tessmannii Pilg.,Caryocar glabrum,Caryocar glabrum subsp. glabrum,COINCIDE,WFO precisa la subespecie,No,2026-11-17
+Cedrela angustifolia,Cedrela odorata,Cedrela angustifolia,DIFIERE,WFO acepta el nombre registrado,No,2026-11-17
+Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.,Aiouea montana,Aiouea montana,COINCIDE,,No,2026-11-17
+Cinnamomum zeylanicum,Cinnamomum verum,Cinnamomum verum,COINCIDE,,No,2026-11-17
+Copaifera reticulata Ducke,Copaifera copaibo,Copaifera epunctata,DIFIERE,Distinta especie aceptada,No,2026-11-17
+Dipteryx odorata (Aubl.) Willd.,Dipteryx odorata,Dipteryx odorata,COINCIDE,,No,2026-11-17
+Dracontium loretense Krause,Dracontium spruceanum,Dracontium spruceanum,COINCIDE,,No,2026-11-17
+Eucalyptus citriodora,Corymbia citriodora,Corymbia citriodora,COINCIDE,,No,2026-11-17
+Eucalyptus torelliana,Corymbia torelliana,Corymbia torelliana,COINCIDE,,No,2026-11-17
+Ficus killipii Standl.,Ficus coerulescens,Ficus coerulescens,COINCIDE,,No,2026-11-17
+Grabowskia boerhaaviifolia,Lycium boerhaaviifolium,Lycium boerhaviifolium,COINCIDE,Variante ortográfica del mismo nombre,No,2026-11-17
+Himatanthus sucuuba,Himatanthus articulatus,Himatanthus articulatus,COINCIDE,,No,2026-11-17
+Hylocereus megalanthus,Selenicereus megalanthus,Selenicereus megalanthus,COINCIDE,,No,2026-11-17
+Inga altissima Ducke,Inga alba,Inga alba,COINCIDE,,No,2026-11-17
+Licania apetala,Leptobalanus apetalus,Leptobalanus apetalus,COINCIDE,,No,2026-11-17
+Lonchocarpus nicou,Lonchocarpus heptaphyllus,Robinia nicou,DIFIERE,Distinto género aceptado,No,2026-11-17
+Mayna parvifolium,Casearia maynacarpa,Casearia maynacarpa,COINCIDE,,No,2026-11-17
+Maytenus macrocarpa,Monteverdia macrocarpa,Maytenus macrocarpa,DIFIERE,WFO acepta el nombre registrado,No,2026-11-17
+Mezilaurus itauba (Meisn. ex DC.) Taub. ex Mez,Mezilaurus ita-uba,Mezilaurus ita-uba,COINCIDE,,No,2026-11-17
+Nectandra reticulata (Ruiz & Pav.) Mez,Nectandra villosa,Nectandra mollis,DIFIERE,Distinta especie aceptada,No,2026-11-17
+Ocotea cernua (Nees) Mez,Ocotea leptobotra,Ocotea leptobotra,COINCIDE,,No,2026-11-17
+Ocotea cuprea (Meisn.) Mez,Ocotea oblonga,Ocotea oblonga var. cuprea,COINCIDE,WFO precisa la variedad,No,2026-11-17
+Ocotea longifolia Kunth,Mespilodaphne opifera,Ocotea aurantiodora,DIFIERE,Distinto nombre aceptado,No,2026-11-17
+Ocotea quixos,Mespilodaphne quixos,Mespilodaphne quixos,COINCIDE,,No,2026-11-17
+Persea camfora Spreng,Cinnamomum camphora,,SIN_RESULTADO_WFO,Nombre mal escrito; WFO no lo encuentra,No,2026-11-17
+Polypodium leucotomos,Phlebodium aureum,,SIN_RESULTADO_WFO,WFO no ubica el nombre en su clasificación,No,2026-11-17
+Psoralea glandulosa,Otholobium glandulosum,Grimolobium glandulosum,DIFIERE,Distinto género aceptado,No,2026-11-17
+Pterocarpus ulei Harms,Pterocarpus amazonum,Pterocarpus amazonum,COINCIDE,,No,2026-11-17
+Rollinia mucosa,Annona mucosa,Annona mucosa,COINCIDE,,No,2026-11-17
+Sanguisorba minor,Poterium sanguisorba,Sanguisorba minor,DIFIERE,WFO acepta el nombre registrado,No,2026-11-17
+Schefflera morototoni,Didymopanax morototoni,Didymopanax morototoni,COINCIDE,,No,2026-11-17
+Schizolobium amazonicum,Schizolobium parahyba,Schizolobium parahyba,COINCIDE,,No,2026-11-17
+Schizolobium excelsum,Schizolobium parahyba,Schizolobium parahyba,COINCIDE,,No,2026-11-17
+Sclerolobium paniculatum Vogel,Tachigali vulgaris,Tachigali vulgaris,COINCIDE,,No,2026-11-17
+Tabebuia capitata (Bureau & K. Schum.) Sandwith,Handroanthus capitatus,Handroanthus capitatus,COINCIDE,,No,2026-11-17
+Tabebuia incana A.H. Gentry,Handroanthus incanus,Handroanthus incanus,COINCIDE,,No,2026-11-17
+Tabernaemontana arcuata,Tabernaemontana cymosa,Tabernaemontana cymosa,COINCIDE,,No,2026-11-17
+Tachigali polyphylla Poepp. & Endl.,Tachigali poeppigiana,Tachigali poeppigiana,COINCIDE,,No,2026-11-17
+Terminalia amazonia (J.F. Gmel.) Exell,Terminalia amazonica,Terminalia amazonia,COINCIDE,Variante ortográfica del mismo nombre,No,2026-11-17
+Zanthoxylum juniperinum,Zanthoxylum acuminatum,Zanthoxylum acuminatum subsp. juniperinum,COINCIDE,WFO precisa la subespecie,No,2026-11-17

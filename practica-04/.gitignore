@@ -1,0 +1,23 @@
+# Archivos pesados o con restricciones (se referencian, no se suben)
+*.tif
+*.tiff
+*.hdr
+*.img
+*.h5
+*.pth
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos originales: contienen datos personales (nombres y DNI). Ver data/raw/FUENTE.md
+data/raw/*
+!data/raw/FUENTE.md

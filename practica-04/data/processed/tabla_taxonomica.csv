@@ -1,0 +1,536 @@
+nombre_registrado,nombre_consultado,gbif_nombre_canonico,gbif_nombre_cientifico,gbif_estado,gbif_rango,nombre_aceptado,genero,familia,gbif_tipo_coincidencia,gbif_confianza,gbif_usage_key,decision,fecha_consulta
+Abies alba,Abies alba,Abies alba,Abies alba Mill.,ACCEPTED,SPECIES,Abies alba,Abies,Pinaceae,EXACT,99.0,2685484.0,ACEPTAR,2026-11-17
+Acacia loretensis,Acacia loretensis,Acacia loretensis,Acacia loretensis J.F.Macbr.,SYNONYM,SPECIES,Senegalia loretensis,Senegalia,Fabaceae,EXACT,100.0,2980597.0,ACEPTAR,2026-11-17
+Acacia nilotica,Acacia nilotica,Acacia nilotica,Acacia nilotica (L.) Willd. ex Delile,SYNONYM,SPECIES,Vachellia nilotica,Vachellia,Fabaceae,EXACT,99.0,2978421.0,ACEPTAR,2026-11-17
+Acacia sp,Acacia sp,Acacia,Acacia Mill.,ACCEPTED,GENUS,Acacia,Acacia,Fabaceae,HIGHERRANK,96.0,2978223.0,REVISAR,2026-11-17
+Acrocarpus fraxinifolius Wight & Arn.,Acrocarpus fraxinifolius Wight & Arn.,Acrocarpus fraxinifolius,Acrocarpus fraxinifolius Wight & Arn.,ACCEPTED,SPECIES,Acrocarpus fraxinifolius,Acrocarpus,Fabaceae,EXACT,100.0,7491932.0,ACEPTAR,2026-11-17
+Albizia carbonaria,Albizia carbonaria,Albizia carbonaria,Albizia carbonaria Britton,ACCEPTED,SPECIES,Albizia carbonaria,Albizia,Fabaceae,EXACT,100.0,2973135.0,ACEPTAR,2026-11-17
+Albizia distachya,Albizia distachya,Albizia distachya,Albizia distachya (Vent.) J.F.Macbr.,SYNONYM,SPECIES,Paraserianthes lophantha,Paraserianthes,Fabaceae,EXACT,100.0,2943720.0,ACEPTAR,2026-11-17
+Albizia julibrissin Durazz.,Albizia julibrissin Durazz.,Albizia julibrissin,Albizia julibrissin Durazz.,ACCEPTED,SPECIES,Albizia julibrissin,Albizia,Fabaceae,EXACT,100.0,2972983.0,ACEPTAR,2026-11-17
+Albizia niopoides,Albizia niopoides,Albizia niopoides,Albizia niopoides (Spruce ex Benth.) Burkart,ACCEPTED,SPECIES,Albizia niopoides,Albizia,Fabaceae,EXACT,100.0,2973046.0,ACEPTAR,2026-11-17
+Albizia pedicellaris,Albizia pedicellaris,Albizia pedicellaris,Albizia pedicellaris (DC.) L.Rico,SYNONYM,SPECIES,Balizia pedicellaris,Balizia,Fabaceae,EXACT,100.0,2973147.0,ACEPTAR,2026-11-17
+Albizia subdimidiata (Splitg.) Barneby & J.W. Grimes,Albizia subdimidiata (Splitg.) Barneby & J.W. Grimes,Albizia subdimidiata,Albizia subdimidiata (Splitg.) Barneby & J.W.Grimes,ACCEPTED,SPECIES,Albizia subdimidiata,Albizia,Fabaceae,EXACT,100.0,2973285.0,ACEPTAR,2026-11-17
+Albizia xerophytica J.Linares,Albizia xerophytica J.Linares,Albizia xerophytica,Albizia xerophytica J.Linares,ACCEPTED,SPECIES,Albizia xerophytica,Albizia,Fabaceae,EXACT,100.0,3967803.0,ACEPTAR,2026-11-17
+Alchornea castaneifolia,Alchornea castaneifolia,Alchornea castaneifolia,Alchornea castaneifolia (Humb. & Bonpl. ex Willd.) A.Juss.,ACCEPTED,SPECIES,Alchornea castaneifolia,Alchornea,Euphorbiaceae,EXACT,99.0,3055543.0,ACEPTAR,2026-11-17
+Alnus acuminata,Alnus acuminata,Alnus acuminata,Alnus acuminata Kunth,ACCEPTED,SPECIES,Alnus acuminata,Alnus,Betulaceae,EXACT,100.0,2876131.0,ACEPTAR,2026-11-17
+Alnus sp.,Alnus sp.,Alnus,Alnus Mill.,ACCEPTED,GENUS,Alnus,Alnus,Betulaceae,HIGHERRANK,95.0,2876099.0,REVISAR,2026-11-17
+Alseis labatiodes,Alseis labatiodes,Alseis labatioides,Alseis labatioides H.Karst. ex K.Schum.,ACCEPTED,SPECIES,Alseis labatioides,Alseis,Rubiaceae,FUZZY,96.0,5334870.0,ACEPTAR,2026-11-17
+Alseis peruviana Standl.,Alseis peruviana Standl.,Alseis peruviana,Alseis peruviana Standl.,ACCEPTED,SPECIES,Alseis peruviana,Alseis,Rubiaceae,EXACT,100.0,5334893.0,ACEPTAR,2026-11-17
+Ambrosia peruviana,Ambrosia peruviana,Ambrosia,Ambrosia L.,DOUBTFUL,GENUS,Ambrosia,Ambrosia,Asteraceae,HIGHERRANK,99.0,3110576.0,REVISAR,2026-11-17
+Amburana cearensis (Allemão) A.C. Sm.,Amburana cearensis (Allemão) A.C. Sm.,Amburana cearensis,Amburana cearensis (Allemão) A.C.Sm.,ACCEPTED,SPECIES,Amburana cearensis,Amburana,Fabaceae,EXACT,100.0,2945821.0,ACEPTAR,2026-11-17
+Anacardium giganteum,Anacardium giganteum,Anacardium giganteum,Anacardium giganteum Hancock ex Engl.,ACCEPTED,SPECIES,Anacardium giganteum,Anacardium,Anacardiaceae,EXACT,99.0,7908525.0,ACEPTAR,2026-11-17
+Anacardium occidentale,Anacardium occidentale,Anacardium occidentale,Anacardium occidentale L.,ACCEPTED,SPECIES,Anacardium occidentale,Anacardium,Anacardiaceae,EXACT,99.0,5421368.0,ACEPTAR,2026-11-17
+Anadenanthera colubrina,Anadenanthera colubrina,Anadenanthera colubrina,Anadenanthera colubrina (Vell.) Brenan,ACCEPTED,SPECIES,Anadenanthera colubrina,Anadenanthera,Fabaceae,EXACT,100.0,2952823.0,ACEPTAR,2026-11-17
+Anaueria brasiliensis Kosterm.,Anaueria brasiliensis Kosterm.,Anaueria brasiliensis,Anaueria brasiliensis Kosterm.,ACCEPTED,SPECIES,Anaueria brasiliensis,Anaueria,Lauraceae,EXACT,100.0,4181847.0,ACEPTAR,2026-11-17
+Anaxagorea pachypetala (Diels) R.E.Fr.,Anaxagorea pachypetala (Diels) R.E.Fr.,Anaxagorea pachypetala,Anaxagorea pachypetala (Diels) R.E.Fr.,ACCEPTED,SPECIES,Anaxagorea pachypetala,Anaxagorea,Annonaceae,EXACT,100.0,3156848.0,ACEPTAR,2026-11-17
+Anaxagorea sp,Anaxagorea sp,Anaxagorea,Anaxagorea A.St.-Hil.,ACCEPTED,GENUS,Anaxagorea,Anaxagorea,Annonaceae,HIGHERRANK,96.0,8275519.0,REVISAR,2026-11-17
+Aniba amazonica,Aniba amazonica,Aniba amazonica,Aniba amazonica (Meisn.) Mez,SYNONYM,SPECIES,Aniba puchury-minor,Aniba,Lauraceae,EXACT,100.0,4181778.0,ACEPTAR,2026-11-17
+Aniba gigantifolia,Aniba gigantifolia,Aniba gigantifolia,Aniba gigantifolia O.C.Schmidt,SYNONYM,SPECIES,Aniba hostmanniana,Aniba,Lauraceae,EXACT,100.0,4181279.0,ACEPTAR,2026-11-17
+Aniba guianensis Aubl.,Aniba guianensis Aubl.,Aniba guianensis,Aniba guianensis Aubl.,ACCEPTED,SPECIES,Aniba guianensis,Aniba,Lauraceae,EXACT,100.0,3034090.0,ACEPTAR,2026-11-17
+Aniba muca (Ruiz & Pav.) Mez,Aniba muca (Ruiz & Pav.) Mez,Aniba muca,Aniba muca (Ruiz & Pav.) Mez,ACCEPTED,SPECIES,Aniba muca,Aniba,Lauraceae,EXACT,100.0,4180858.0,ACEPTAR,2026-11-17
+Aniba panurensis,Aniba panurensis,Aniba panurensis,Aniba panurensis (Meisn.) Mez,ACCEPTED,SPECIES,Aniba panurensis,Aniba,Lauraceae,EXACT,100.0,4180762.0,ACEPTAR,2026-11-17
+Aniba perutilis Hemsl.,Aniba perutilis Hemsl.,Aniba perutilis,Aniba perutilis Hemsl.,ACCEPTED,SPECIES,Aniba perutilis,Aniba,Lauraceae,EXACT,100.0,4180651.0,ACEPTAR,2026-11-17
+Aniba puchury-minor,Aniba puchury-minor,Aniba puchury-minor,Aniba puchury-minor (Mart.) Mez,ACCEPTED,SPECIES,Aniba puchury-minor,Aniba,Lauraceae,EXACT,100.0,7304533.0,ACEPTAR,2026-11-17
+Aniba robusta (Klotzsch & H. Karst.) Mez,Aniba robusta (Klotzsch & H. Karst.) Mez,Aniba robusta,Aniba robusta (Klotzsch & H.Karst.) Mez,ACCEPTED,SPECIES,Aniba robusta,Aniba,Lauraceae,EXACT,100.0,4180459.0,ACEPTAR,2026-11-17
+Aniba rosiodora Ducke,Aniba rosiodora Ducke,Aniba rosiodora,Aniba rosiodora Ducke,SYNONYM,SPECIES,Aniba rosodora,Aniba,Lauraceae,EXACT,100.0,8469323.0,ACEPTAR,2026-11-17
+Aniba sp.,Aniba sp.,Aniba,Aniba Aubl.,ACCEPTED,GENUS,Aniba,Aniba,Lauraceae,HIGHERRANK,96.0,3034086.0,REVISAR,2026-11-17
+Annona jucunda,Annona jucunda,Annona jucunda,Annona jucunda (Diels) H.Rainer,ACCEPTED,SPECIES,Annona jucunda,Annona,Annonaceae,EXACT,99.0,5541629.0,ACEPTAR,2026-11-17
+Annona muricata,Annona muricata,Annona muricata,Annona muricata L.,ACCEPTED,SPECIES,Annona muricata,Annona,Annonaceae,EXACT,99.0,5407273.0,ACEPTAR,2026-11-17
+Annona reticulata,Annona reticulata,Annona reticulata,Annona reticulata L.,ACCEPTED,SPECIES,Annona reticulata,Annona,Annonaceae,EXACT,99.0,5407123.0,ACEPTAR,2026-11-17
+Anthodiscus peruanus Baill.,Anthodiscus peruanus Baill.,Anthodiscus peruanus,Anthodiscus peruanus Baill.,ACCEPTED,SPECIES,Anthodiscus peruanus,Anthodiscus,Caryocaraceae,EXACT,100.0,5592408.0,ACEPTAR,2026-11-17
+Apeiba membranacea Spruce ex Benth.,Apeiba membranacea Spruce ex Benth.,Apeiba membranacea,Apeiba membranacea Spruce ex Benth.,ACCEPTED,SPECIES,Apeiba membranacea,Apeiba,Malvaceae,EXACT,100.0,4260481.0,ACEPTAR,2026-11-17
+Apuleia leiocarpa (Vogel) J.F. Macbr.,Apuleia leiocarpa (Vogel) J.F. Macbr.,Apuleia leiocarpa,Apuleia leiocarpa (Vogel) J.F.Macbr.,ACCEPTED,SPECIES,Apuleia leiocarpa,Apuleia,Fabaceae,EXACT,100.0,5353578.0,ACEPTAR,2026-11-17
+Apuleia leiocarpa J.F.Macbr.,Apuleia leiocarpa J.F.Macbr.,Apuleia leiocarpa,Apuleia leiocarpa (Vogel) J.F.Macbr.,ACCEPTED,SPECIES,Apuleia leiocarpa,Apuleia,Fabaceae,EXACT,100.0,5353578.0,ACEPTAR,2026-11-17
+Araucaria angustifolia,Araucaria angustifolia,Araucaria angustifolia,Araucaria angustifolia (Bertol.) Kuntze,ACCEPTED,SPECIES,Araucaria angustifolia,Araucaria,Araucariaceae,EXACT,99.0,2684940.0,ACEPTAR,2026-11-17
+Araucaria heterophylla,Araucaria heterophylla,Araucaria heterophylla,Araucaria heterophylla (Salisb.) Franco,ACCEPTED,SPECIES,Araucaria heterophylla,Araucaria,Araucariaceae,EXACT,100.0,2684969.0,ACEPTAR,2026-11-17
+Artocarpus altilis (Parkinson) Fosberg,Artocarpus altilis (Parkinson) Fosberg,Artocarpus altilis,Artocarpus altilis (Parkinson) Fosberg,ACCEPTED,SPECIES,Artocarpus altilis,Artocarpus,Moraceae,EXACT,100.0,2984573.0,ACEPTAR,2026-11-17
+Arundinaria alpina K.Schum.,Arundinaria alpina K.Schum.,Arundinaria alpina,Arundinaria alpina K.Schum.,SYNONYM,SPECIES,Oldeania alpina,Oldeania,Poaceae,EXACT,100.0,4117581.0,ACEPTAR,2026-11-17
+Arundinaria gigantea,Arundinaria gigantea,Arundinaria gigantea,Arundinaria gigantea (Walter) Muhl.,ACCEPTED,SPECIES,Arundinaria gigantea,Arundinaria,Poaceae,EXACT,99.0,2705964.0,ACEPTAR,2026-11-17
+Aspidosperma excelsum Benth.,Aspidosperma excelsum Benth.,Aspidosperma excelsum,Aspidosperma excelsum Benth.,ACCEPTED,SPECIES,Aspidosperma excelsum,Aspidosperma,Apocynaceae,EXACT,100.0,3618555.0,ACEPTAR,2026-11-17
+Aspidosperma macrocarpon Mart.,Aspidosperma macrocarpon Mart.,Aspidosperma macrocarpon,Aspidosperma macrocarpon Mart.,ACCEPTED,SPECIES,Aspidosperma macrocarpon,Aspidosperma,Apocynaceae,EXACT,100.0,3618037.0,ACEPTAR,2026-11-17
+Aspidosperma parvifolium,Aspidosperma parvifolium,Aspidosperma parvifolium,Aspidosperma parvifolium A.DC.,ACCEPTED,SPECIES,Aspidosperma parvifolium,Aspidosperma,Apocynaceae,EXACT,100.0,3617528.0,ACEPTAR,2026-11-17
+Aspidosperma rigidum Rusby,Aspidosperma rigidum Rusby,Aspidosperma rigidum,Aspidosperma rigidum Rusby,ACCEPTED,SPECIES,Aspidosperma rigidum,Aspidosperma,Apocynaceae,EXACT,100.0,3616924.0,ACEPTAR,2026-11-17
+Aspidosperma schultesii Woodson,Aspidosperma schultesii Woodson,Aspidosperma schultesii,Aspidosperma schultesii Woodson,ACCEPTED,SPECIES,Aspidosperma schultesii,Aspidosperma,Apocynaceae,EXACT,100.0,3616833.0,ACEPTAR,2026-11-17
+Astrocaryum chambira,Astrocaryum chambira,Astrocaryum chambira,Astrocaryum chambira Burret,ACCEPTED,SPECIES,Astrocaryum chambira,Astrocaryum,Arecaceae,EXACT,100.0,2738064.0,ACEPTAR,2026-11-17
+Astrocaryum murumuru,Astrocaryum murumuru,Astrocaryum murumuru,Astrocaryum murumuru Mart.,ACCEPTED,SPECIES,Astrocaryum murumuru,Astrocaryum,Arecaceae,EXACT,99.0,2738081.0,ACEPTAR,2026-11-17
+Attalea maripa,Attalea maripa,Attalea maripa,Attalea maripa (Aubl.) Mart.,ACCEPTED,SPECIES,Attalea maripa,Attalea,Arecaceae,EXACT,100.0,2732686.0,ACEPTAR,2026-11-17
+Attalea phalerata,Attalea phalerata,Attalea phalerata,Attalea phalerata Mart. ex Spreng.,ACCEPTED,SPECIES,Attalea phalerata,Attalea,Arecaceae,EXACT,99.0,2732758.0,ACEPTAR,2026-11-17
+Azadirachta indica,Azadirachta indica,Azadirachta indica,Azadirachta indica A.Juss.,ACCEPTED,SPECIES,Azadirachta indica,Azadirachta,Meliaceae,EXACT,100.0,3190474.0,ACEPTAR,2026-11-17
+Bactris gasipaes,Bactris gasipaes,Bactris gasipaes,Bactris gasipaes Kunth,ACCEPTED,SPECIES,Bactris gasipaes,Bactris,Arecaceae,EXACT,100.0,2733060.0,ACEPTAR,2026-11-17
+Bambusa arundinacea,Bambusa arundinacea,Bambusa arundinacea,"Bambusa arundinacea Wight ex Steud., 1840",ACCEPTED,SPECIES,Bambusa arundinacea,Bambusa,Poaceae,EXACT,99.0,8234573.0,ACEPTAR,2026-11-17
+Bambusa multiplex,Bambusa multiplex,Bambusa multiplex,Bambusa multiplex (Lour.) Raeusch. ex Schult.f.,ACCEPTED,SPECIES,Bambusa multiplex,Bambusa,Poaceae,EXACT,99.0,2705757.0,ACEPTAR,2026-11-17
+Bambusa oldhamii,Bambusa oldhamii,Bambusa oldhamii,Bambusa oldhamii Munro,ACCEPTED,SPECIES,Bambusa oldhamii,Bambusa,Poaceae,EXACT,100.0,4141692.0,ACEPTAR,2026-11-17
+Bambusa tuldoides,Bambusa tuldoides,Bambusa tuldoides,Bambusa tuldoides Munro,ACCEPTED,SPECIES,Bambusa tuldoides,Bambusa,Poaceae,EXACT,100.0,2705762.0,ACEPTAR,2026-11-17
+Bambusa vulgaris,Bambusa vulgaris,Bambusa vulgaris,Bambusa vulgaris Schrad. ex J.C.Wendl.,ACCEPTED,SPECIES,Bambusa vulgaris,Bambusa,Poaceae,EXACT,99.0,7661971.0,ACEPTAR,2026-11-17
+Banisteriopsis caapi (Spruce ex Griseb.) Morton,Banisteriopsis caapi (Spruce ex Griseb.) Morton,Banisteriopsis caapi,Banisteriopsis caapi (Spruce ex Griseb.) C.V.Morton,ACCEPTED,SPECIES,Banisteriopsis caapi,Banisteriopsis,Malpighiaceae,EXACT,100.0,3191340.0,ACEPTAR,2026-11-17
+Batocarpus orinocensis H. Karst.,Batocarpus orinocensis H. Karst.,Batocarpus orinocensis,Batocarpus orinocensis H.Karst.,ACCEPTED,SPECIES,Batocarpus orinocensis,Batocarpus,Moraceae,EXACT,100.0,3763838.0,ACEPTAR,2026-11-17
+Beautempsia avicenniifolia,Beautempsia avicenniifolia,Beautempsia avicenniifolia,Beautempsia avicenniifolia (Kunth) Gaudich.,ACCEPTED,SPECIES,Beautempsia avicenniifolia,Beautempsia,Capparaceae,EXACT,100.0,3873557.0,ACEPTAR,2026-11-17
+Beilschmiedia costaricensis (Mez & Pittier) C.K. Allen,Beilschmiedia costaricensis (Mez & Pittier) C.K. Allen,Beilschmiedia costaricensis,Beilschmiedia costaricensis (Mez & Pittier) C.K.Allen,ACCEPTED,SPECIES,Beilschmiedia costaricensis,Beilschmiedia,Lauraceae,EXACT,100.0,4177855.0,ACEPTAR,2026-11-17
+Beilschmiedia latifolia (Nees) Sach. Nishida,Beilschmiedia latifolia (Nees) Sach. Nishida,Beilschmiedia latifolia,Beilschmiedia latifolia (Nees) Sach.Nishida,ACCEPTED,SPECIES,Beilschmiedia latifolia,Beilschmiedia,Lauraceae,EXACT,100.0,4176690.0,ACEPTAR,2026-11-17
+Beilschmiedia sulcata (Ruiz & Pav.) Kosterm.,Beilschmiedia sulcata (Ruiz & Pav.) Kosterm.,Beilschmiedia sulcata,Beilschmiedia sulcata (Ruiz & Pav.) Kosterm.,ACCEPTED,SPECIES,Beilschmiedia sulcata,Beilschmiedia,Lauraceae,EXACT,100.0,4183033.0,ACEPTAR,2026-11-17
+Bertholletia excelsa Bonpl.,Bertholletia excelsa Bonpl.,Bertholletia excelsa,Bertholletia excelsa Bonpl.,ACCEPTED,SPECIES,Bertholletia excelsa,Bertholletia,Lecythidaceae,EXACT,100.0,3083180.0,ACEPTAR,2026-11-17
+Bixa orellana L.,Bixa orellana L.,Bixa orellana,Bixa orellana L.,ACCEPTED,SPECIES,Bixa orellana,Bixa,Bixaceae,EXACT,100.0,2874863.0,ACEPTAR,2026-11-17
+Bixa platycarpa,Bixa platycarpa,Bixa platycarpa,Bixa platycarpa Ruiz & Pav. ex G.Don,ACCEPTED,SPECIES,Bixa platycarpa,Bixa,Bixaceae,EXACT,99.0,4087172.0,ACEPTAR,2026-11-17
+Borojoa claviflora,Borojoa claviflora,Borojoa claviflora,Borojoa claviflora (K.Schum.) Cuatrec.,SYNONYM,SPECIES,Alibertia claviflora,Alibertia,Rubiaceae,EXACT,100.0,2919735.0,ACEPTAR,2026-11-17
+Bougainvillea sp.,Bougainvillea sp.,Bougainvillea,Bougainvillea Comm. ex Juss.,ACCEPTED,GENUS,Bougainvillea,Bougainvillea,Nyctaginaceae,HIGHERRANK,95.0,3086089.0,REVISAR,2026-11-17
+Brosimum alicastrum,Brosimum alicastrum,Brosimum alicastrum,Brosimum alicastrum Sw.,ACCEPTED,SPECIES,Brosimum alicastrum,Brosimum,Moraceae,EXACT,100.0,2984660.0,ACEPTAR,2026-11-17
+Brosimum guianense (Aubl.) Huber,Brosimum guianense (Aubl.) Huber,Brosimum guianense,Brosimum guianense (Aubl.) Huber,SYNONYM,SPECIES,Brosimum guianense,Brosimum,Moraceae,EXACT,100.0,2984658.0,ACEPTAR,2026-11-17
+Brosimum parinarioides Ducke,Brosimum parinarioides Ducke,Brosimum parinarioides,Brosimum parinarioides Ducke,ACCEPTED,SPECIES,Brosimum parinarioides,Brosimum,Moraceae,EXACT,100.0,3762924.0,ACEPTAR,2026-11-17
+Brosimum rubescens Taub.,Brosimum rubescens Taub.,Brosimum rubescens,Brosimum rubescens Taub.,ACCEPTED,SPECIES,Brosimum rubescens,Brosimum,Moraceae,EXACT,100.0,3762826.0,ACEPTAR,2026-11-17
+Brosimum utile (Kunth) Oken,Brosimum utile (Kunth) Oken,Brosimum utile,Brosimum utile (Kunth) Oken,ACCEPTED,SPECIES,Brosimum utile,Brosimum,Moraceae,EXACT,100.0,8042591.0,ACEPTAR,2026-11-17
+Brunellia subsessilis,Brunellia subsessilis,Brunellia subsessilis,Brunellia subsessilis Killip & Cuatrec.,ACCEPTED,SPECIES,Brunellia subsessilis,Brunellia,Brunelliaceae,EXACT,100.0,5643488.0,ACEPTAR,2026-11-17
+Brunfelsia grandiflora,Brunfelsia grandiflora,Brunfelsia grandiflora,Brunfelsia grandiflora D.Don,ACCEPTED,SPECIES,Brunfelsia grandiflora,Brunfelsia,Solanaceae,EXACT,100.0,2932917.0,ACEPTAR,2026-11-17
+Buchenavia grandis Ducke,Buchenavia grandis Ducke,Buchenavia grandis,Buchenavia grandis Ducke,SYNONYM,SPECIES,Terminalia grandis,Terminalia,Combretaceae,EXACT,100.0,3698736.0,ACEPTAR,2026-11-17
+Buddleja coriacea J. Rémy,Buddleja coriacea J. Rémy,Buddleja coriacea,Buddleja coriacea J.Rémy,ACCEPTED,SPECIES,Buddleja coriacea,Buddleja,Scrophulariaceae,EXACT,100.0,4055468.0,ACEPTAR,2026-11-17
+Buddleja incana Ruiz & Pav.,Buddleja incana Ruiz & Pav.,Buddleja incana,Buddleja incana Ruiz & Pav.,ACCEPTED,SPECIES,Buddleja incana,Buddleja,Scrophulariaceae,EXACT,100.0,7288255.0,ACEPTAR,2026-11-17
+Bunchosia armeniaca,Bunchosia armeniaca,Bunchosia armeniaca,Bunchosia armeniaca (Cav.) Rich.,ACCEPTED,SPECIES,Bunchosia armeniaca,Bunchosia,Malpighiaceae,EXACT,99.0,8398507.0,ACEPTAR,2026-11-17
+Bursera graveolens,Bursera graveolens,Bursera graveolens,Bursera graveolens (Kunth) Triana & Planch.,ACCEPTED,SPECIES,Bursera graveolens,Bursera,Burseraceae,EXACT,100.0,7286883.0,ACEPTAR,2026-11-17
+Byrsonima crassifolia,Byrsonima crassifolia,Byrsonima crassifolia,Byrsonima crassifolia (L.) Kunth,ACCEPTED,SPECIES,Byrsonima crassifolia,Byrsonima,Malpighiaceae,EXACT,99.0,3191361.0,ACEPTAR,2026-11-17
+Byrsonima spicata,Byrsonima spicata,Byrsonima spicata,Byrsonima spicata (Cav.) DC.,ACCEPTED,SPECIES,Byrsonima spicata,Byrsonima,Malpighiaceae,EXACT,99.0,3191348.0,ACEPTAR,2026-11-17
+Cabralea canjerana (Vell.) Mart.,Cabralea canjerana (Vell.) Mart.,Cabralea canjerana,Cabralea canjerana (Vell.) Mart.,ACCEPTED,SPECIES,Cabralea canjerana,Cabralea,Meliaceae,EXACT,100.0,7271502.0,ACEPTAR,2026-11-17
+Caesalpinia echinata,Caesalpinia echinata,Caesalpinia echinata,Caesalpinia echinata Lam.,SYNONYM,SPECIES,Paubrasilia echinata,Paubrasilia,Fabaceae,EXACT,100.0,2958549.0,ACEPTAR,2026-11-17
+Caesalpinia paipai,Caesalpinia paipai,Caesalpinia paipai,Caesalpinia paipai Ruiz & Pav.,SYNONYM,SPECIES,Libidibia glabrata,Libidibia,Fabaceae,EXACT,100.0,2958830.0,ACEPTAR,2026-11-17
+Caesalpinia pulcherrima,Caesalpinia pulcherrima,Caesalpinia pulcherrima,Caesalpinia pulcherrima (L.) Sw.,ACCEPTED,SPECIES,Caesalpinia pulcherrima,Caesalpinia,Fabaceae,EXACT,99.0,2958715.0,ACEPTAR,2026-11-17
+Caesalpinia spinosa,Caesalpinia spinosa,Caesalpinia spinosa,Caesalpinia spinosa (Molina) Kuntze,SYNONYM,SPECIES,Tara spinosa,Tara,Fabaceae,EXACT,100.0,2958521.0,ACEPTAR,2026-11-17
+Calliandra angustifolia,Calliandra angustifolia,Calliandra angustifolia,Calliandra angustifolia Spruce ex Benth.,ACCEPTED,SPECIES,Calliandra angustifolia,Calliandra,Fabaceae,EXACT,99.0,2982331.0,ACEPTAR,2026-11-17
+Calliandra calothyrsus,Calliandra calothyrsus,Calliandra calothyrsus,Calliandra calothyrsus Meisn.,SYNONYM,SPECIES,Calliandra houstoniana,Calliandra,Fabaceae,EXACT,100.0,2982069.0,ACEPTAR,2026-11-17
+Calophyllum brasiliense Cambess.,Calophyllum brasiliense Cambess.,Calophyllum brasiliense,Calophyllum brasiliense Cambess.,ACCEPTED,SPECIES,Calophyllum brasiliense,Calophyllum,Calophyllaceae,EXACT,100.0,5421069.0,ACEPTAR,2026-11-17
+Calycophyllum spruceanum,Calycophyllum spruceanum,Calycophyllum spruceanum,Calycophyllum spruceanum (Benth.) Hook.f. ex K.Schum.,ACCEPTED,SPECIES,Calycophyllum spruceanum,Calycophyllum,Rubiaceae,EXACT,99.0,2904000.0,ACEPTAR,2026-11-17
+Campsiandra laurifolia,Campsiandra laurifolia,Campsiandra laurifolia,Campsiandra laurifolia Benth.,ACCEPTED,SPECIES,Campsiandra laurifolia,Campsiandra,Fabaceae,EXACT,100.0,2933025.0,ACEPTAR,2026-11-17
+Capirona decorticans Spruce,Capirona decorticans Spruce,Capirona decorticans,Capirona decorticans Spruce,SYNONYM,SPECIES,Capirona macrophylla,Capirona,Rubiaceae,EXACT,100.0,2909263.0,ACEPTAR,2026-11-17
+Capparis Flexuosa,Capparis flexuosa,Capparaceae,Capparaceae,ACCEPTED,FAMILY,Capparaceae,,Capparaceae,HIGHERRANK,99.0,3111.0,REVISAR,2026-11-17
+Capparis Ovalifolia,Capparis ovalifolia,Capparaceae,Capparaceae,ACCEPTED,FAMILY,Capparaceae,,Capparaceae,HIGHERRANK,99.0,3111.0,REVISAR,2026-11-17
+Capparis scabrida Kunth,Capparis scabrida Kunth,Capparis scabrida,Capparis scabrida Kunth,SYNONYM,SPECIES,Colicodendron scabridum,Colicodendron,Capparaceae,EXACT,100.0,5602265.0,ACEPTAR,2026-11-17
+Caraipa densifolia Mart.,Caraipa densifolia Mart.,Caraipa densifolia,Caraipa densifolia Mart.,ACCEPTED,SPECIES,Caraipa densifolia,Caraipa,Calophyllaceae,EXACT,100.0,7330101.0,ACEPTAR,2026-11-17
+Carapa guianensis Aubl.,Carapa guianensis Aubl.,Carapa guianensis,Carapa guianensis Aubl.,ACCEPTED,SPECIES,Carapa guianensis,Carapa,Meliaceae,EXACT,100.0,3190513.0,ACEPTAR,2026-11-17
+Cariniana decandra Ducke,Cariniana decandra Ducke,Cariniana decandra,Cariniana decandra Ducke,SYNONYM,SPECIES,Allantoma decandra,Allantoma,Lecythidaceae,EXACT,100.0,3083019.0,ACEPTAR,2026-11-17
+Cariniana domestica (Mart.) Miers,Cariniana domestica (Mart.) Miers,Cariniana domestica,Cariniana domestica (Mart.) Miers,ACCEPTED,SPECIES,Cariniana domestica,Cariniana,Lecythidaceae,EXACT,100.0,3083031.0,ACEPTAR,2026-11-17
+Cariniana estrellensis (Raddi) Kuntze,Cariniana estrellensis (Raddi) Kuntze,Cariniana estrellensis,Cariniana estrellensis (Raddi) Kuntze,ACCEPTED,SPECIES,Cariniana estrellensis,Cariniana,Lecythidaceae,EXACT,100.0,3083020.0,ACEPTAR,2026-11-17
+Caryocar amygdaliforme Ruiz & Pav. ex G. Don,Caryocar amygdaliforme Ruiz & Pav. ex G. Don,Caryocar amygdaliforme,Caryocar amygdaliforme G.Don,ACCEPTED,SPECIES,Caryocar amygdaliforme,Caryocar,Caryocaraceae,EXACT,100.0,3826046.0,ACEPTAR,2026-11-17
+Caryocar glabrum (Aubl.) Pers.,Caryocar glabrum (Aubl.) Pers.,Caryocar glabrum,Caryocar glabrum (Aubl.) Pers.,ACCEPTED,SPECIES,Caryocar glabrum,Caryocar,Caryocaraceae,EXACT,100.0,3826026.0,ACEPTAR,2026-11-17
+Caryocar tessmannii Pilg.,Caryocar tessmannii Pilg.,Caryocar tessmannii,Caryocar tessmannii Pilg.,SYNONYM,SPECIES,Caryocar glabrum,Caryocar,Caryocaraceae,EXACT,100.0,3826042.0,ACEPTAR,2026-11-17
+Casearia arborea Urb.,Casearia arborea Urb.,Casearia arborea,Casearia arborea (Rich.) Urb.,ACCEPTED,SPECIES,Casearia arborea,Casearia,Salicaceae,EXACT,100.0,5331149.0,ACEPTAR,2026-11-17
+Cassia fistula,Cassia fistula,Cassia fistula,Cassia fistula L.,ACCEPTED,SPECIES,Cassia fistula,Cassia,Fabaceae,EXACT,99.0,5357108.0,ACEPTAR,2026-11-17
+Casuarina equisetifolia,Casuarina equisetifolia,Casuarina equisetifolia,Casuarina equisetifolia L.,ACCEPTED,SPECIES,Casuarina equisetifolia,Casuarina,Casuarinaceae,EXACT,99.0,2891930.0,ACEPTAR,2026-11-17
+Cavanillesia umbellata,Cavanillesia umbellata,Cavanillesia umbellata,Cavanillesia umbellata Ruiz & Pav.,ACCEPTED,SPECIES,Cavanillesia umbellata,Cavanillesia,Malvaceae,EXACT,100.0,4073907.0,ACEPTAR,2026-11-17
+Cecropia distachya Huber,Cecropia distachya Huber,Cecropia distachya,Cecropia distachya Huber,ACCEPTED,SPECIES,Cecropia distachya,Cecropia,Urticaceae,EXACT,100.0,4013607.0,ACEPTAR,2026-11-17
+Cecropia engleriana,Cecropia engleriana,Cecropia engleriana,Cecropia engleriana Snethl.,ACCEPTED,SPECIES,Cecropia engleriana,Cecropia,Urticaceae,EXACT,100.0,4013581.0,ACEPTAR,2026-11-17
+Cecropia polystachya,Cecropia polystachya,Cecropia polystachya,Cecropia polystachya Trécul,ACCEPTED,SPECIES,Cecropia polystachya,Cecropia,Urticaceae,EXACT,100.0,4013171.0,ACEPTAR,2026-11-17
+Cedrela angustifolia,Cedrela angustifolia,Cedrela angustifolia,Cedrela angustifolia Moc. & Sessé ex DC.,SYNONYM,SPECIES,Cedrela odorata,Cedrela,Meliaceae,EXACT,99.0,3851194.0,ACEPTAR,2026-11-17
+Cedrela fissilis,Cedrela fissilis,Cedrela fissilis,Cedrela fissilis Vell.,ACCEPTED,SPECIES,Cedrela fissilis,Cedrela,Meliaceae,EXACT,100.0,7107974.0,ACEPTAR,2026-11-17
+Cedrela montana Moritz ex Turcz.,Cedrela montana Moritz ex Turcz.,Cedrela montana,Cedrela montana Moritz ex Turcz.,ACCEPTED,SPECIES,Cedrela montana,Cedrela,Meliaceae,EXACT,100.0,7271324.0,ACEPTAR,2026-11-17
+Cedrela odorata,Cedrela odorata,Cedrela odorata,Cedrela odorata L.,ACCEPTED,SPECIES,Cedrela odorata,Cedrela,Meliaceae,EXACT,99.0,3190511.0,ACEPTAR,2026-11-17
+Cedrela sp,Cedrela sp,Cedrela,Cedrela P.Browne,ACCEPTED,GENUS,Cedrela,Cedrela,Meliaceae,HIGHERRANK,96.0,3190510.0,REVISAR,2026-11-17
+Cedrelinga cateniformis,Cedrelinga cateniformis,Cedrelinga cateniformis,Cedrelinga cateniformis (Ducke) Ducke,ACCEPTED,SPECIES,Cedrelinga cateniformis,Cedrelinga,Fabaceae,EXACT,100.0,2976174.0,ACEPTAR,2026-11-17
+Ceiba insignis,Ceiba insignis,Ceiba insignis,Ceiba insignis (Kunth) P.E.Gibbs & Semir,ACCEPTED,SPECIES,Ceiba insignis,Ceiba,Malvaceae,EXACT,100.0,5663215.0,ACEPTAR,2026-11-17
+Ceiba lupuna P.E. Gibbs & Semir,Ceiba lupuna P.E. Gibbs & Semir,Ceiba lupuna,Ceiba lupuna P.E.Gibbs & Semir,ACCEPTED,SPECIES,Ceiba lupuna,Ceiba,Malvaceae,EXACT,100.0,8285424.0,ACEPTAR,2026-11-17
+Ceiba pentandra,Ceiba pentandra,Ceiba pentandra,Ceiba pentandra (L.) Gaertn.,ACCEPTED,SPECIES,Ceiba pentandra,Ceiba,Malvaceae,EXACT,99.0,5406697.0,ACEPTAR,2026-11-17
+Ceiba samauma,Ceiba samauma,Ceiba samauma,Ceiba samauma (Mart. & Zucc.) Schum.,ACCEPTED,SPECIES,Ceiba samauma,Ceiba,Malvaceae,EXACT,100.0,7981929.0,ACEPTAR,2026-11-17
+Celtis iguanaea,Celtis iguanaea,Celtis iguanaea,Celtis iguanaea (Jacq.) Sarg.,ACCEPTED,SPECIES,Celtis iguanaea,Celtis,Cannabaceae,EXACT,100.0,2984498.0,ACEPTAR,2026-11-17
+Celtis schippii Standl.,Celtis schippii Standl.,Celtis schippii,Celtis schippii Standl.,ACCEPTED,SPECIES,Celtis schippii,Celtis,Cannabaceae,EXACT,100.0,4159734.0,ACEPTAR,2026-11-17
+Ceroxylon sp,Ceroxylon sp,Ceroxylon,Ceroxylon Bonpl. ex DC.,ACCEPTED,GENUS,Ceroxylon,Ceroxylon,Arecaceae,HIGHERRANK,95.0,2731821.0,REVISAR,2026-11-17
+Chamaedorea fragrans,Chamaedorea fragrans,Chamaedorea fragrans,Chamaedorea fragrans (Ruiz & Pav.) Mart.,ACCEPTED,SPECIES,Chamaedorea fragrans,Chamaedorea,Arecaceae,EXACT,100.0,2734483.0,ACEPTAR,2026-11-17
+Chamaedorea pauciflora,Chamaedorea pauciflora,Chamaedorea pauciflora,Chamaedorea pauciflora Mart.,ACCEPTED,SPECIES,Chamaedorea pauciflora,Chamaedorea,Arecaceae,EXACT,100.0,2734687.0,ACEPTAR,2026-11-17
+Chrysophyllum prieurii A. DC.,Chrysophyllum prieurii A. DC.,Chrysophyllum prieurii,Chrysophyllum prieurii A.DC.,ACCEPTED,SPECIES,Chrysophyllum prieurii,Chrysophyllum,Sapotaceae,EXACT,100.0,2885616.0,ACEPTAR,2026-11-17
+Chrysophyllum venezuelanense (Pierre) T.D. Penn.,Chrysophyllum venezuelanense (Pierre) T.D. Penn.,Chrysophyllum venezuelanense,Chrysophyllum venezuelanense (Pierre) T.D.Penn.,ACCEPTED,SPECIES,Chrysophyllum venezuelanense,Chrysophyllum,Sapotaceae,EXACT,100.0,2885671.0,ACEPTAR,2026-11-17
+Cinchona micrantha Ruiz & Pav.,Cinchona micrantha Ruiz & Pav.,Cinchona micrantha,Cinchona micrantha Ruiz & Pav.,ACCEPTED,SPECIES,Cinchona micrantha,Cinchona,Rubiaceae,EXACT,100.0,2901287.0,ACEPTAR,2026-11-17
+Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.,Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.,Cinnamomum triplinerve,Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.,SYNONYM,SPECIES,Aiouea montana,Aiouea,Lauraceae,EXACT,100.0,4179448.0,ACEPTAR,2026-11-17
+Cinnamomum zeylanicum,Cinnamomum zeylanicum,Cinnamomum zeylanicum,Cinnamomum zeylanicum Blume,SYNONYM,SPECIES,Cinnamomum verum,Cinnamomum,Lauraceae,EXACT,99.0,3033988.0,ACEPTAR,2026-11-17
+Citharexylum poeppigii,Citharexylum poeppigii,Citharexylum poeppigii,Citharexylum poeppigii Walp.,ACCEPTED,SPECIES,Citharexylum poeppigii,Citharexylum,Verbenaceae,EXACT,100.0,7297664.0,ACEPTAR,2026-11-17
+Citrus limon,Citrus limon,Citrus limon,Citrus × limon (L.) Osbeck,ACCEPTED,SPECIES,Citrus limon,Citrus,Rutaceae,EXACT,99.0,7647136.0,ACEPTAR,2026-11-17
+Clarisia biflora Ruiz & Pav.,Clarisia biflora Ruiz & Pav.,Clarisia biflora,Clarisia biflora Ruiz & Pav.,ACCEPTED,SPECIES,Clarisia biflora,Clarisia,Moraceae,EXACT,100.0,7262852.0,ACEPTAR,2026-11-17
+Clarisia racemosa Ruiz & Pav.,Clarisia racemosa Ruiz & Pav.,Clarisia racemosa,Clarisia racemosa Ruiz & Pav.,ACCEPTED,SPECIES,Clarisia racemosa,Clarisia,Moraceae,EXACT,100.0,5572170.0,ACEPTAR,2026-11-17
+Cocos nucifera,Cocos nucifera,Cocos nucifera,Cocos nucifera L.,ACCEPTED,SPECIES,Cocos nucifera,Cocos,Arecaceae,EXACT,100.0,2735117.0,ACEPTAR,2026-11-17
+Codiaeum variegatum,Codiaeum variegatum,Codiaeum variegatum,Codiaeum variegatum (L.) Rumph. ex A.Juss.,ACCEPTED,SPECIES,Codiaeum variegatum,Codiaeum,Euphorbiaceae,EXACT,99.0,3071476.0,ACEPTAR,2026-11-17
+Colignonia parviflora subsp.biumbellata,Colignonia parviflora subsp.biumbellata,Colignonia parviflora biumbellata,Colignonia parviflora subsp. biumbellata (Ball) J.E.Bohlin,ACCEPTED,SUBSPECIES,Colignonia parviflora,Colignonia,Nyctaginaceae,EXACT,100.0,3701314.0,ACEPTAR,2026-11-17
+Colubrina glandulosa,Colubrina glandulosa,Colubrina glandulosa,Colubrina glandulosa Perkins,ACCEPTED,SPECIES,Colubrina glandulosa,Colubrina,Rhamnaceae,EXACT,100.0,5372466.0,ACEPTAR,2026-11-17
+Compsoneura capitellata,Compsoneura capitellata,Compsoneura capitellata,Compsoneura capitellata (Poepp. ex A.DC.) Warb.,ACCEPTED,SPECIES,Compsoneura capitellata,Compsoneura,Myristicaceae,EXACT,100.0,5564567.0,ACEPTAR,2026-11-17
+Compsoneura sprucei (A. DC.) Warb.,Compsoneura sprucei (A. DC.) Warb.,Compsoneura sprucei,Compsoneura sprucei (A.DC.) Warb.,ACCEPTED,SPECIES,Compsoneura sprucei,Compsoneura,Myristicaceae,EXACT,100.0,5564457.0,ACEPTAR,2026-11-17
+Copaifera officinalis,Copaifera officinalis,Copaifera officinalis,Copaifera officinalis L.,ACCEPTED,SPECIES,Copaifera officinalis,Copaifera,Fabaceae,EXACT,100.0,2978155.0,ACEPTAR,2026-11-17
+Copaifera paupera (Herzog) Dwyer,Copaifera paupera (Herzog) Dwyer,Copaifera paupera,Copaifera paupera (Herzog) Dwyer,ACCEPTED,SPECIES,Copaifera paupera,Copaifera,Fabaceae,EXACT,100.0,2978184.0,ACEPTAR,2026-11-17
+Copaifera reticulata Ducke,Copaifera reticulata Ducke,Copaifera reticulata,Copaifera reticulata Ducke,SYNONYM,SPECIES,Copaifera copaibo,Copaifera,Fabaceae,EXACT,100.0,2978143.0,ACEPTAR,2026-11-17
+Cordia alliodora,Cordia alliodora,Cordia alliodora,Cordia alliodora (Ruiz & Pav.) Oken,ACCEPTED,SPECIES,Cordia alliodora,Cordia,Cordiaceae,EXACT,99.0,7649215.0,ACEPTAR,2026-11-17
+Cordia lutea,Cordia lutea,Cordia lutea,Cordia lutea Lam.,ACCEPTED,SPECIES,Cordia lutea,Cordia,Cordiaceae,EXACT,100.0,5661644.0,ACEPTAR,2026-11-17
+Corymbia torelliana,Corymbia torelliana,Corymbia torelliana,Corymbia torelliana (F.Muell.) K.D.Hill & L.A.S.Johnson,ACCEPTED,SPECIES,Corymbia torelliana,Corymbia,Myrtaceae,EXACT,100.0,5418406.0,ACEPTAR,2026-11-17
+Couma macrocarpa Barb. Rodr.,Couma macrocarpa Barb. Rodr.,Couma macrocarpa,Couma macrocarpa Barb.Rodr.,ACCEPTED,SPECIES,Couma macrocarpa,Couma,Apocynaceae,EXACT,100.0,3614969.0,ACEPTAR,2026-11-17
+Couratari guianensis Aubl.,Couratari guianensis Aubl.,Couratari guianensis,Couratari guianensis Aubl.,ACCEPTED,SPECIES,Couratari guianensis,Couratari,Lecythidaceae,EXACT,100.0,3083111.0,ACEPTAR,2026-11-17
+Couratari macrosperma A.C.Sm.,Couratari macrosperma A.C.Sm.,Couratari macrosperma,Couratari macrosperma A.C.Sm.,ACCEPTED,SPECIES,Couratari macrosperma,Couratari,Lecythidaceae,EXACT,100.0,3083120.0,ACEPTAR,2026-11-17
+Couroupita guianensis,Couroupita guianensis,Couroupita guianensis,Couroupita guianensis Aubl.,ACCEPTED,SPECIES,Couroupita guianensis,Couroupita,Lecythidaceae,EXACT,99.0,3082562.0,ACEPTAR,2026-11-17
+Croton lechleri,Croton lechleri,Croton lechleri,Croton lechleri Müll.Arg.,ACCEPTED,SPECIES,Croton lechleri,Croton,Euphorbiaceae,EXACT,100.0,3057776.0,ACEPTAR,2026-11-17
+Croton matourensis aubl,Croton matourensis aubl,Croton matourensis,Croton matourensis Aubl.,ACCEPTED,SPECIES,Croton matourensis,Croton,Euphorbiaceae,HIGHERRANK,100.0,3058007.0,ACEPTAR,2026-11-17
+Croton sp.,Croton sp.,Croton,Croton L.,ACCEPTED,GENUS,Croton,Croton,Euphorbiaceae,HIGHERRANK,95.0,3057454.0,REVISAR,2026-11-17
+Croton tessmannii,Croton tessmannii,Croton tessmannii,Croton tessmannii Mansf.,ACCEPTED,SPECIES,Croton tessmannii,Croton,Euphorbiaceae,EXACT,100.0,3058161.0,ACEPTAR,2026-11-17
+Cupressus arizonica Greene,Cupressus arizonica Greene,Cupressus arizonica,Cupressus arizonica Greene,ACCEPTED,SPECIES,Cupressus arizonica,Cupressus,Cupressaceae,EXACT,100.0,2683969.0,ACEPTAR,2026-11-17
+Cupressus lusitanica Mill.,Cupressus lusitanica Mill.,Cupressus lusitanica,Cupressus lusitanica Mill.,ACCEPTED,SPECIES,Cupressus lusitanica,Cupressus,Cupressaceae,EXACT,100.0,2684046.0,ACEPTAR,2026-11-17
+Cupressus macrocarpa,Cupressus macrocarpa,Cupressus macrocarpa,Cupressus macrocarpa Hartw. ex Gordon,ACCEPTED,SPECIES,Cupressus macrocarpa,Cupressus,Cupressaceae,EXACT,99.0,2684070.0,ACEPTAR,2026-11-17
+Cupressus sempervirens,Cupressus sempervirens,Cupressus sempervirens,Cupressus sempervirens L.,ACCEPTED,SPECIES,Cupressus sempervirens,Cupressus,Cupressaceae,EXACT,100.0,2684030.0,ACEPTAR,2026-11-17
+Cupressus sp.,Cupressus sp.,Cupressus,Cupressus L.,ACCEPTED,GENUS,Cupressus,Cupressus,Cupressaceae,HIGHERRANK,95.0,10225588.0,REVISAR,2026-11-17
+Cymbopogon citratus,Cymbopogon citratus,Cymbopogon citratus,Cymbopogon citratus (DC.) Stapf,ACCEPTED,SPECIES,Cymbopogon citratus,Cymbopogon,Poaceae,EXACT,100.0,2705275.0,ACEPTAR,2026-11-17
+Delonix regia,Delonix regia,Delonix regia,Delonix regia (Bojer ex Hook.) Raf.,ACCEPTED,SPECIES,Delonix regia,Delonix,Fabaceae,EXACT,100.0,2956176.0,ACEPTAR,2026-11-17
+Dendrocalamus asper,Dendrocalamus asper,Dendrocalamus asper,Dendrocalamus asper (Schult.f.) Backer,ACCEPTED,SPECIES,Dendrocalamus asper,Dendrocalamus,Poaceae,EXACT,99.0,2703315.0,ACEPTAR,2026-11-17
+Dendropanax arboreus,Dendropanax arboreus,Dendropanax arboreus,Dendropanax arboreus (L.) Decne. & Planch.,ACCEPTED,SPECIES,Dendropanax arboreus,Dendropanax,Araliaceae,EXACT,100.0,3035093.0,ACEPTAR,2026-11-17
+Desmodium molliculum,Desmodium molliculum,Desmodium molliculum,Desmodium molliculum (Kunth) DC.,ACCEPTED,SPECIES,Desmodium molliculum,Desmodium,Fabaceae,EXACT,100.0,2967640.0,ACEPTAR,2026-11-17
+Dialium guianense (Aubl.) Sandwith,Dialium guianense (Aubl.) Sandwith,Dialium guianense,Dialium guianense (Aubl.) Sandwith,ACCEPTED,SPECIES,Dialium guianense,Dialium,Fabaceae,EXACT,100.0,2971008.0,ACEPTAR,2026-11-17
+Didymopanax morototoni,Didymopanax morototoni,Didymopanax morototoni,Didymopanax morototoni (Aubl.) Decne. & Planch.,ACCEPTED,SPECIES,Didymopanax morototoni,Didymopanax,Araliaceae,EXACT,100.0,3038523.0,ACEPTAR,2026-11-17
+Diploon cuspidatum (Hoehne) Cronquist,Diploon cuspidatum (Hoehne) Cronquist,Diploon cuspidatum,Diploon cuspidatum (Hoehne) Cronquist,ACCEPTED,SPECIES,Diploon cuspidatum,Diploon,Sapotaceae,EXACT,100.0,2883950.0,ACEPTAR,2026-11-17
+Diplotropis martiusii,Diplotropis martiusii,Diplotropis martiusii,Diplotropis martiusii Benth.,ACCEPTED,SPECIES,Diplotropis martiusii,Diplotropis,Fabaceae,EXACT,100.0,5355620.0,ACEPTAR,2026-11-17
+Dipterocarpus alatus,Dipterocarpus alatus,Dipterocarpus alatus,Dipterocarpus alatus Roxb.,ACCEPTED,SPECIES,Dipterocarpus alatus,Dipterocarpus,Dipterocarpaceae,EXACT,99.0,4096596.0,ACEPTAR,2026-11-17
+Dipteryx micrantha,Dipteryx micrantha,Dipteryx micrantha,Dipteryx micrantha Harms,ACCEPTED,SPECIES,Dipteryx micrantha,Dipteryx,Fabaceae,EXACT,100.0,2947131.0,ACEPTAR,2026-11-17
+Dipteryx odorata (Aubl.) Willd.,Dipteryx odorata (Aubl.) Willd.,Dipteryx odorata,Dipteryx odorata (Aubl.) Willd.,SYNONYM,SPECIES,Dipteryx odorata,Dipteryx,Fabaceae,EXACT,100.0,2947137.0,ACEPTAR,2026-11-17
+Dracontium loretense Krause,Dracontium loretense Krause,Dracontium loretense,Dracontium loretense K.Krause,SYNONYM,SPECIES,Dracontium spruceanum,Dracontium,Araceae,EXACT,100.0,5330719.0,ACEPTAR,2026-11-17
+Duguetia sp.,Duguetia sp.,Duguetia,Duguetia A.St.-Hil.,ACCEPTED,GENUS,Duguetia,Duguetia,Annonaceae,HIGHERRANK,96.0,3157467.0,REVISAR,2026-11-17
+Dussia tessmannii,Dussia tessmannii,Dussia tessmannii,Dussia tessmannii Harms,ACCEPTED,SPECIES,Dussia tessmannii,Dussia,Fabaceae,EXACT,100.0,2968237.0,ACEPTAR,2026-11-17
+Endlicheria griseosericea Chanderb.,Endlicheria griseosericea Chanderb.,Endlicheria griseosericea,Endlicheria griseosericea Chanderb.,ACCEPTED,SPECIES,Endlicheria griseosericea,Endlicheria,Lauraceae,EXACT,100.0,4176269.0,ACEPTAR,2026-11-17
+Endlicheria krukovii,Endlicheria krukovii,Endlicheria krukovii,Endlicheria krukovii (A.C.Sm.) Kosterm.,ACCEPTED,SPECIES,Endlicheria krukovii,Endlicheria,Lauraceae,EXACT,100.0,4176111.0,ACEPTAR,2026-11-17
+Enterolobium sp.,Enterolobium sp.,Enterolobium,Enterolobium Mart.,ACCEPTED,GENUS,Enterolobium,Enterolobium,Fabaceae,HIGHERRANK,96.0,2961142.0,REVISAR,2026-11-17
+Equisetum sp,Equisetum sp,Equisetum,Equisetum L.,ACCEPTED,GENUS,Equisetum,Equisetum,Equisetaceae,HIGHERRANK,96.0,2687913.0,REVISAR,2026-11-17
+Erisma uncinatum Warm.,Erisma uncinatum Warm.,Erisma uncinatum,Erisma uncinatum Warm.,ACCEPTED,SPECIES,Erisma uncinatum,Erisma,Vochysiaceae,EXACT,100.0,5650915.0,ACEPTAR,2026-11-17
+Erythrina edulis,Erythrina edulis,Erythrina edulis,Erythrina edulis Triana ex Micheli,ACCEPTED,SPECIES,Erythrina edulis,Erythrina,Fabaceae,EXACT,99.0,5349541.0,ACEPTAR,2026-11-17
+Erythrina fusca Lour.,Erythrina fusca Lour.,Erythrina fusca,Erythrina fusca Lour.,ACCEPTED,SPECIES,Erythrina fusca,Erythrina,Fabaceae,EXACT,100.0,5349620.0,ACEPTAR,2026-11-17
+Erythrina poeppigiana O.F.Cook,Erythrina poeppigiana O.F.Cook,Erythrina poeppigiana,Erythrina poeppigiana (Walp.) O.F.Cook,ACCEPTED,SPECIES,Erythrina poeppigiana,Erythrina,Fabaceae,EXACT,100.0,5349755.0,ACEPTAR,2026-11-17
+Erythrina ulei,Erythrina ulei,Erythrina ulei,Erythrina ulei Harms,ACCEPTED,SPECIES,Erythrina ulei,Erythrina,Fabaceae,EXACT,100.0,5349570.0,ACEPTAR,2026-11-17
+Erythrina velutina,Erythrina velutina,Erythrina velutina,Erythrina velutina Willd.,ACCEPTED,SPECIES,Erythrina velutina,Erythrina,Fabaceae,EXACT,99.0,5349685.0,ACEPTAR,2026-11-17
+Erythroxylum coca,Erythroxylum coca,Erythroxylum coca,Erythroxylum coca Lam.,ACCEPTED,SPECIES,Erythroxylum coca,Erythroxylum,Erythroxylaceae,EXACT,100.0,2873939.0,ACEPTAR,2026-11-17
+Erythroxylum fimbriatum,Erythroxylum fimbriatum,Erythroxylum fimbriatum,Erythroxylum fimbriatum Peyr.,ACCEPTED,SPECIES,Erythroxylum fimbriatum,Erythroxylum,Erythroxylaceae,EXACT,100.0,3694373.0,ACEPTAR,2026-11-17
+Erythroxylum gracilipes,Erythroxylum gracilipes,Erythroxylum gracilipes,Erythroxylum gracilipes Peyr.,ACCEPTED,SPECIES,Erythroxylum gracilipes,Erythroxylum,Erythroxylaceae,EXACT,100.0,7284849.0,ACEPTAR,2026-11-17
+Erythroxylum rurii,Erythroxylum rurii,Erythroxylum ruryi,Erythroxylum ruryi Plowman,ACCEPTED,SPECIES,Erythroxylum ruryi,Erythroxylum,Erythroxylaceae,FUZZY,98.0,3694438.0,ACEPTAR,2026-11-17
+Erythroxylum ulei,Erythroxylum ulei,Erythroxylum ulei,Erythroxylum ulei O.E.Schulz,ACCEPTED,SPECIES,Erythroxylum ulei,Erythroxylum,Erythroxylaceae,EXACT,100.0,3694437.0,ACEPTAR,2026-11-17
+Escallonia resinosa,Escallonia resinosa,Escallonia resinosa,Escallonia resinosa (Ruiz & Pav.) Pers.,ACCEPTED,SPECIES,Escallonia resinosa,Escallonia,Escalloniaceae,EXACT,99.0,7278651.0,ACEPTAR,2026-11-17
+Eschweilera coriacea (DC.) S.A. Mori,Eschweilera coriacea (DC.) S.A. Mori,Eschweilera coriacea,Eschweilera coriacea (DC.) S.A.Mori,ACCEPTED,SPECIES,Eschweilera coriacea,Eschweilera,Lecythidaceae,EXACT,100.0,3083231.0,ACEPTAR,2026-11-17
+Eschweilera juruensis,Eschweilera juruensis,Eschweilera juruensis,Eschweilera juruensis R.Knuth,ACCEPTED,SPECIES,Eschweilera juruensis,Eschweilera,Lecythidaceae,EXACT,100.0,3083251.0,ACEPTAR,2026-11-17
+Eucalyptus camaldulensis Dehnh.,Eucalyptus camaldulensis Dehnh.,Eucalyptus camaldulensis,Eucalyptus camaldulensis Dehn.,DOUBTFUL,SPECIES,Eucalyptus camaldulensis,Eucalyptus,Myrtaceae,EXACT,100.0,3176197.0,ACEPTAR,2026-11-17
+Eucalyptus citriodora,Eucalyptus citriodora,Eucalyptus citriodora,Eucalyptus citriodora Hook.,SYNONYM,SPECIES,Corymbia citriodora,Corymbia,Myrtaceae,EXACT,100.0,3180581.0,ACEPTAR,2026-11-17
+Eucalyptus deglupta,Eucalyptus deglupta,Eucalyptus deglupta,Eucalyptus deglupta Blume,ACCEPTED,SPECIES,Eucalyptus deglupta,Eucalyptus,Myrtaceae,EXACT,100.0,3176325.0,ACEPTAR,2026-11-17
+Eucalyptus globulus,Eucalyptus globulus,Eucalyptus globulus,Eucalyptus globulus Labill.,ACCEPTED,SPECIES,Eucalyptus globulus,Eucalyptus,Myrtaceae,EXACT,100.0,3176787.0,ACEPTAR,2026-11-17
+Eucalyptus grandis,Eucalyptus grandis,Eucalyptus grandis,Eucalyptus grandis W.Hill ex Maiden,ACCEPTED,SPECIES,Eucalyptus grandis,Eucalyptus,Myrtaceae,EXACT,99.0,3177028.0,ACEPTAR,2026-11-17
+Eucalyptus saligna,Eucalyptus saligna,Eucalyptus saligna,Eucalyptus saligna Sm.,ACCEPTED,SPECIES,Eucalyptus saligna,Eucalyptus,Myrtaceae,EXACT,99.0,3177224.0,ACEPTAR,2026-11-17
+Eucalyptus sp.,Eucalyptus sp.,Eucalyptus,Eucalyptus L'Hér.,ACCEPTED,GENUS,Eucalyptus,Eucalyptus,Myrtaceae,HIGHERRANK,95.0,7493935.0,REVISAR,2026-11-17
+Eucalyptus torelliana,Eucalyptus torelliana,Eucalyptus torelliana,Eucalyptus torelliana F.Muell.,SYNONYM,SPECIES,Corymbia torelliana,Corymbia,Myrtaceae,EXACT,100.0,3180533.0,ACEPTAR,2026-11-17
+Eucalyptus urograndis,Eucalyptus urograndis,Eucalyptus,Eucalyptus L'Hér.,ACCEPTED,GENUS,Eucalyptus,Eucalyptus,Myrtaceae,HIGHERRANK,95.0,7493935.0,REVISAR,2026-11-17
+Eucalyptus urophylla,Eucalyptus urophylla,Eucalyptus urophylla,Eucalyptus urophylla S.T.Blake,ACCEPTED,SPECIES,Eucalyptus urophylla,Eucalyptus,Myrtaceae,EXACT,100.0,3176605.0,ACEPTAR,2026-11-17
+Eucalyptus viminalis Labill.,Eucalyptus viminalis Labill.,Eucalyptus viminalis,Eucalyptus viminalis Labill.,ACCEPTED,SPECIES,Eucalyptus viminalis,Eucalyptus,Myrtaceae,EXACT,100.0,3177112.0,ACEPTAR,2026-11-17
+Eugenia biflora,Eugenia biflora,Eugenia biflora,Eugenia biflora (L.) DC.,ACCEPTED,SPECIES,Eugenia biflora,Eugenia,Myrtaceae,EXACT,100.0,5417812.0,ACEPTAR,2026-11-17
+Eugenia stipitata,Eugenia stipitata,Eugenia stipitata,Eugenia stipitata Mc Vaugh,ACCEPTED,SPECIES,Eugenia stipitata,Eugenia,Myrtaceae,EXACT,99.0,10503673.0,ACEPTAR,2026-11-17
+Eugenia uniflora,Eugenia uniflora,Eugenia uniflora,Eugenia uniflora L.,ACCEPTED,SPECIES,Eugenia uniflora,Eugenia,Myrtaceae,EXACT,99.0,5416458.0,ACEPTAR,2026-11-17
+Euterpe oleracea,Euterpe oleracea,Euterpe oleracea,Euterpe oleracea Mart.,ACCEPTED,SPECIES,Euterpe oleracea,Euterpe,Arecaceae,EXACT,99.0,5293398.0,ACEPTAR,2026-11-17
+Euterpe precatoria,Euterpe precatoria,Euterpe precatoria,Euterpe precatoria Mart.,ACCEPTED,SPECIES,Euterpe precatoria,Euterpe,Arecaceae,EXACT,100.0,5293425.0,ACEPTAR,2026-11-17
+Ficus crassiuscula Warb. ex Standl.,Ficus crassiuscula Warb. ex Standl.,Ficus crassiuscula,Ficus crassiuscula Warb. ex Standl.,ACCEPTED,SPECIES,Ficus crassiuscula,Ficus,Moraceae,EXACT,100.0,5569874.0,ACEPTAR,2026-11-17
+Ficus insipida,Ficus insipida,Ficus insipida,Ficus insipida Willd.,ACCEPTED,SPECIES,Ficus insipida,Ficus,Moraceae,EXACT,100.0,6358534.0,ACEPTAR,2026-11-17
+Ficus killipii Standl.,Ficus killipii Standl.,Ficus killipii,Ficus killipii Standl.,SYNONYM,SPECIES,Ficus coerulescens,Ficus,Moraceae,EXACT,100.0,5569630.0,ACEPTAR,2026-11-17
+Ficus maxima,Ficus maxima,Ficus maxima,Ficus maxima Mill.,ACCEPTED,SPECIES,Ficus maxima,Ficus,Moraceae,EXACT,99.0,5571386.0,ACEPTAR,2026-11-17
+Ficus pertusa L. f.,Ficus pertusa L. f.,Ficus pertusa,Ficus pertusa L.fil.,ACCEPTED,SPECIES,Ficus pertusa,Ficus,Moraceae,EXACT,100.0,7944396.0,ACEPTAR,2026-11-17
+Ficus sp.,Ficus sp.,Ficus,Ficus L.,ACCEPTED,GENUS,Ficus,Ficus,Moraceae,HIGHERRANK,95.0,2984588.0,REVISAR,2026-11-17
+Ficus trigona L. f.,Ficus trigona L. f.,Ficus trigona,Ficus trigona L.fil.,ACCEPTED,SPECIES,Ficus trigona,Ficus,Moraceae,EXACT,100.0,7930239.0,ACEPTAR,2026-11-17
+Gallesia integrifolia,Gallesia integrifolia,Gallesia integrifolia,Gallesia integrifolia (Spreng.) Harms,ACCEPTED,SPECIES,Gallesia integrifolia,Gallesia,Phytolaccaceae,EXACT,100.0,7309641.0,ACEPTAR,2026-11-17
+Garcinia madruno,Garcinia madruno,Garcinia madruno,Garcinia madruno (Kunth) Hammel,ACCEPTED,SPECIES,Garcinia madruno,Garcinia,Clusiaceae,EXACT,100.0,3713863.0,ACEPTAR,2026-11-17
+Genipa americana L.,Genipa americana L.,Genipa americana,Genipa americana L.,ACCEPTED,SPECIES,Genipa americana,Genipa,Rubiaceae,EXACT,100.0,2895593.0,ACEPTAR,2026-11-17
+Geoffroea decorticans,Geoffroea decorticans,Geoffroea decorticans,Geoffroea decorticans (Gillies ex Hook. & Arn.) Burkart,ACCEPTED,SPECIES,Geoffroea decorticans,Geoffroea,Fabaceae,EXACT,100.0,2966692.0,ACEPTAR,2026-11-17
+Geranium ayavacense,Geranium ayavacense,Geranium ayavacense,Geranium ayavacense Kunth,ACCEPTED,SPECIES,Geranium ayavacense,Geranium,Geraniaceae,EXACT,99.0,2890494.0,ACEPTAR,2026-11-17
+Gigantochloa apus,Gigantochloa apus,Gigantochloa apus,Gigantochloa apus (Schult.f.) Kurz,ACCEPTED,SPECIES,Gigantochloa apus,Gigantochloa,Poaceae,EXACT,99.0,2703312.0,ACEPTAR,2026-11-17
+Gmelina arborea,Gmelina arborea,Gmelina arborea,Gmelina arborea Roxb. ex Sm.,ACCEPTED,SPECIES,Gmelina arborea,Gmelina,Lamiaceae,EXACT,99.0,8247889.0,ACEPTAR,2026-11-17
+Gordonia fruticosa (Schrad.) H. Keng,Gordonia fruticosa (Schrad.) H. Keng,Gordonia fruticosa,Gordonia fruticosa (Schrad.) H.Keng,ACCEPTED,SPECIES,Gordonia fruticosa,Gordonia,Theaceae,EXACT,100.0,5528227.0,ACEPTAR,2026-11-17
+Grabowskia Boerhaaviifolia,Grabowskia boerhaaviifolia,Grabowskia boerhaviifolia,Grabowskia boerhaviifolia (L.fil.) Lindl.,SYNONYM,SPECIES,Lycium boerhaaviifolium,Lycium,Solanaceae,FUZZY,96.0,7300190.0,ACEPTAR,2026-11-17
+Grevillea robusta,Grevillea robusta,Grevillea robusta,Grevillea robusta A.Cunn. ex R.Br.,ACCEPTED,SPECIES,Grevillea robusta,Grevillea,Proteaceae,EXACT,99.0,2891791.0,ACEPTAR,2026-11-17
+Grias sp.,Grias sp.,Grias,Grias L.,ACCEPTED,GENUS,Grias,Grias,Lecythidaceae,HIGHERRANK,96.0,3082326.0,REVISAR,2026-11-17
+Guadua angustifolia,Guadua angustifolia,Guadua angustifolia,Guadua angustifolia Kunth,ACCEPTED,SPECIES,Guadua angustifolia,Guadua,Poaceae,EXACT,100.0,4155017.0,ACEPTAR,2026-11-17
+Guadua angustifolia Kunth,Guadua angustifolia Kunth,Guadua angustifolia,Guadua angustifolia Kunth,ACCEPTED,SPECIES,Guadua angustifolia,Guadua,Poaceae,EXACT,100.0,4155017.0,ACEPTAR,2026-11-17
+Guadua sp.,Guadua sp.,Guadua,Guadua Kunth,ACCEPTED,GENUS,Guadua,Guadua,Poaceae,HIGHERRANK,96.0,4127579.0,REVISAR,2026-11-17
+Guarea glabra,Guarea glabra,Guarea glabra,Guarea glabra Vahl,ACCEPTED,SPECIES,Guarea glabra,Guarea,Meliaceae,EXACT,100.0,3190505.0,ACEPTAR,2026-11-17
+Guarea guidonia,Guarea guidonia,Guarea guidonia,Guarea guidonia (L.) Sleumer,ACCEPTED,SPECIES,Guarea guidonia,Guarea,Meliaceae,EXACT,100.0,3190500.0,ACEPTAR,2026-11-17
+Guarea kunthiana A. Juss.,Guarea kunthiana A. Juss.,Guarea kunthiana,Guarea kunthiana A.Juss.,ACCEPTED,SPECIES,Guarea kunthiana,Guarea,Meliaceae,EXACT,100.0,3851727.0,ACEPTAR,2026-11-17
+Guarea macrophylla Vahl,Guarea macrophylla Vahl,Guarea macrophylla,Guarea macrophylla M.Vahl,ACCEPTED,SPECIES,Guarea macrophylla,Guarea,Meliaceae,EXACT,100.0,7271393.0,ACEPTAR,2026-11-17
+Guarea sp.,Guarea sp.,Guarea,Guarea Allemão ex L.,ACCEPTED,GENUS,Guarea,Guarea,Meliaceae,HIGHERRANK,95.0,3190499.0,REVISAR,2026-11-17
+Guatteria alata Maas & Setten,Guatteria alata Maas & Setten,Guatteria alata,Guatteria alata Maas & van Setten,ACCEPTED,SPECIES,Guatteria alata,Guatteria,Annonaceae,EXACT,100.0,3155647.0,ACEPTAR,2026-11-17
+Guatteria elata R.E. Fr.,Guatteria elata R.E. Fr.,Guatteria elata,Guatteria elata R.E.Fr.,ACCEPTED,SPECIES,Guatteria elata,Guatteria,Annonaceae,EXACT,100.0,3155920.0,ACEPTAR,2026-11-17
+Guatteria hyposericea Diels,Guatteria hyposericea Diels,Guatteria hyposericea,Guatteria hyposericea Diels,ACCEPTED,SPECIES,Guatteria hyposericea,Guatteria,Annonaceae,EXACT,100.0,3155863.0,ACEPTAR,2026-11-17
+Guatteria modesta Diels,Guatteria modesta Diels,Guatteria modesta,Guatteria modesta Diels,ACCEPTED,SPECIES,Guatteria modesta,Guatteria,Annonaceae,EXACT,100.0,3155844.0,ACEPTAR,2026-11-17
+Guazuma crinita,Guazuma crinita,Guazuma crinita,Guazuma crinita Mart.,ACCEPTED,SPECIES,Guazuma crinita,Guazuma,Malvaceae,EXACT,100.0,3668265.0,ACEPTAR,2026-11-17
+Guazuma ulmifolia,Guazuma ulmifolia,Guazuma ulmifolia,Guazuma ulmifolia Lam.,ACCEPTED,SPECIES,Guazuma ulmifolia,Guazuma,Malvaceae,EXACT,99.0,3152195.0,ACEPTAR,2026-11-17
+Handroanthus capitatus,Handroanthus capitatus,Handroanthus capitatus,Handroanthus capitatus (Bureau & K.Schum.) Mattos,ACCEPTED,SPECIES,Handroanthus capitatus,Handroanthus,Bignoniaceae,EXACT,100.0,4092487.0,ACEPTAR,2026-11-17
+Handroanthus ochraceus (Cham.) Mattos,Handroanthus ochraceus (Cham.) Mattos,Handroanthus ochraceus,Handroanthus ochraceus (Cham.) Mattos,ACCEPTED,SPECIES,Handroanthus ochraceus,Handroanthus,Bignoniaceae,EXACT,100.0,4092146.0,ACEPTAR,2026-11-17
+Handroanthus serratifolius (Vahl) S.O. Grose,Handroanthus serratifolius (Vahl) S.O. Grose,Handroanthus serratifolius,Handroanthus serratifolius (Vahl) S.O.Grose,ACCEPTED,SPECIES,Handroanthus serratifolius,Handroanthus,Bignoniaceae,EXACT,100.0,4092017.0,ACEPTAR,2026-11-17
+Heliocarpus americanus L.,Heliocarpus americanus L.,Heliocarpus americanus,Heliocarpus americanus L.,ACCEPTED,SPECIES,Heliocarpus americanus,Heliocarpus,Malvaceae,EXACT,100.0,4259460.0,ACEPTAR,2026-11-17
+Herrania mariae Goudot,Herrania mariae Goudot,Herrania mariae,Herrania mariae (Mart.) Decne. ex Goudot,ACCEPTED,SPECIES,Herrania mariae,Herrania,Malvaceae,EXACT,100.0,7322902.0,ACEPTAR,2026-11-17
+Hesperomeles ferruginea,Hesperomeles ferruginea,Hesperomeles ferruginea,Hesperomeles ferruginea (Juss. ex Pers.) Benth.,ACCEPTED,SPECIES,Hesperomeles ferruginea,Hesperomeles,Rosaceae,EXACT,99.0,7785474.0,ACEPTAR,2026-11-17
+Hevea brasiliensis,Hevea brasiliensis,Hevea brasiliensis,Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.,ACCEPTED,SPECIES,Hevea brasiliensis,Hevea,Euphorbiaceae,EXACT,100.0,3071171.0,ACEPTAR,2026-11-17
+Hevea guianensis Aubl.,Hevea guianensis Aubl.,Hevea guianensis,Hevea guianensis Aubl.,ACCEPTED,SPECIES,Hevea guianensis,Hevea,Euphorbiaceae,EXACT,100.0,3071199.0,ACEPTAR,2026-11-17
+Hieronyma alchorneoides,Hieronyma alchorneoides,Hieronyma alchorneoides,Hieronyma alchorneoides Allemão,ACCEPTED,SPECIES,Hieronyma alchorneoides,Hieronyma,Phyllanthaceae,EXACT,100.0,3079092.0,ACEPTAR,2026-11-17
+Hieronyma asperifolia Pax & K. Hoffm.,Hieronyma asperifolia Pax & K. Hoffm.,Hieronyma asperifolia,Hieronyma asperifolia Pax & K.Hoffm.,ACCEPTED,SPECIES,Hieronyma asperifolia,Hieronyma,Phyllanthaceae,EXACT,100.0,3079083.0,ACEPTAR,2026-11-17
+Himatanthus sucuuba,Himatanthus sucuuba,Himatanthus sucuuba,Himatanthus sucuuba (Spruce ex Müll.Arg.) Woodson,SYNONYM,SPECIES,Himatanthus articulatus,Himatanthus,Apocynaceae,EXACT,100.0,8595739.0,ACEPTAR,2026-11-17
+Huberodendron swietenioides (Gleason) Ducke,Huberodendron swietenioides (Gleason) Ducke,Huberodendron swietenioides,Huberodendron swietenioides (Gleason) Ducke,ACCEPTED,SPECIES,Huberodendron swietenioides,Huberodendron,Malvaceae,EXACT,100.0,4073137.0,ACEPTAR,2026-11-17
+Huertea cubensis,Huertea cubensis,Huertea cubensis,Huertea cubensis Griseb.,ACCEPTED,SPECIES,Huertea cubensis,Huertea,Tapisciaceae,EXACT,100.0,3686275.0,ACEPTAR,2026-11-17
+Hura crepitans L.,Hura crepitans L.,Hura crepitans,Hura crepitans L.,ACCEPTED,SPECIES,Hura crepitans,Hura,Euphorbiaceae,EXACT,100.0,5380015.0,ACEPTAR,2026-11-17
+Hylocereus megalanthus,Hylocereus megalanthus,Hylocereus megalanthus,Hylocereus megalanthus (K.Schum. ex Vaupel) Ralf Bauer,SYNONYM,SPECIES,Selenicereus megalanthus,Selenicereus,Cactaceae,EXACT,99.0,3944769.0,ACEPTAR,2026-11-17
+Hylocereus spp,Hylocereus spp,Hylocereus,Hylocereus Britton & Rose,SYNONYM,GENUS,Hylocereus,Selenicereus,Cactaceae,HIGHERRANK,96.0,8169297.0,REVISAR,2026-11-17
+Hymenaea courbaril,Hymenaea courbaril,Hymenaea courbaril,Hymenaea courbaril L.,ACCEPTED,SPECIES,Hymenaea courbaril,Hymenaea,Fabaceae,EXACT,100.0,2950750.0,ACEPTAR,2026-11-17
+Hymenaea oblongifolia,Hymenaea oblongifolia,Hymenaea oblongifolia,Hymenaea oblongifolia Huber,ACCEPTED,SPECIES,Hymenaea oblongifolia,Hymenaea,Fabaceae,EXACT,100.0,2950738.0,ACEPTAR,2026-11-17
+Hymenaea oblongifolia Huber,Hymenaea oblongifolia Huber,Hymenaea oblongifolia,Hymenaea oblongifolia Huber,ACCEPTED,SPECIES,Hymenaea oblongifolia,Hymenaea,Fabaceae,EXACT,100.0,2950738.0,ACEPTAR,2026-11-17
+Hymenolobium pulcherrimum Ducke,Hymenolobium pulcherrimum Ducke,Hymenolobium pulcherrimum,Hymenolobium pulcherrimum Ducke,ACCEPTED,SPECIES,Hymenolobium pulcherrimum,Hymenolobium,Fabaceae,EXACT,100.0,3913130.0,ACEPTAR,2026-11-17
+Ilex guayusa,Ilex guayusa,Ilex guayusa,Ilex guayusa Loes.,ACCEPTED,SPECIES,Ilex guayusa,Ilex,Aquifoliaceae,EXACT,100.0,5534620.0,ACEPTAR,2026-11-17
+Inga altissima Ducke,Inga altissima Ducke,Inga altissima,Inga altissima Ducke,SYNONYM,SPECIES,Inga alba,Inga,Fabaceae,EXACT,100.0,5357960.0,ACEPTAR,2026-11-17
+Inga edulis,Inga edulis,Inga edulis,Inga edulis Mart.,ACCEPTED,SPECIES,Inga edulis,Inga,Fabaceae,EXACT,100.0,5357677.0,ACEPTAR,2026-11-17
+Inga feuillei,Inga feuillei,Inga feuillei,Inga feuillei DC.,ACCEPTED,SPECIES,Inga feuillei,Inga,Fabaceae,EXACT,100.0,5357953.0,ACEPTAR,2026-11-17
+Inga marginata Willd.,Inga marginata Willd.,Inga marginata,Inga marginata Willd.,ACCEPTED,SPECIES,Inga marginata,Inga,Fabaceae,EXACT,100.0,7546887.0,ACEPTAR,2026-11-17
+Inga pezizifera,Inga pezizifera,Inga pezizifera,Inga pezizifera Benth.,ACCEPTED,SPECIES,Inga pezizifera,Inga,Fabaceae,EXACT,100.0,5357576.0,ACEPTAR,2026-11-17
+Inga sertulifera,Inga sertulifera,Inga sertulifera,Inga sertulifera DC.,ACCEPTED,SPECIES,Inga sertulifera,Inga,Fabaceae,EXACT,100.0,5357619.0,ACEPTAR,2026-11-17
+Inga sp,Inga sp,Inga,Inga Mill.,ACCEPTED,GENUS,Inga,Inga,Fabaceae,HIGHERRANK,95.0,2965936.0,REVISAR,2026-11-17
+Inga sp.,Inga sp.,Inga,Inga Mill.,ACCEPTED,GENUS,Inga,Inga,Fabaceae,HIGHERRANK,95.0,2965936.0,REVISAR,2026-11-17
+Inga thibaudiana,Inga thibaudiana,Inga thibaudiana,Inga thibaudiana DC.,ACCEPTED,SPECIES,Inga thibaudiana,Inga,Fabaceae,EXACT,100.0,5357991.0,ACEPTAR,2026-11-17
+Iryanthera elliptica Ducke,Iryanthera elliptica Ducke,Iryanthera elliptica,Iryanthera elliptica Ducke,ACCEPTED,SPECIES,Iryanthera elliptica,Iryanthera,Myristicaceae,EXACT,100.0,3744033.0,ACEPTAR,2026-11-17
+Iryanthera juruensis Warb.,Iryanthera juruensis Warb.,Iryanthera juruensis,Iryanthera juruensis Warb.,ACCEPTED,SPECIES,Iryanthera juruensis,Iryanthera,Myristicaceae,EXACT,100.0,3743957.0,ACEPTAR,2026-11-17
+Iryanthera lancifolia Ducke,Iryanthera lancifolia Ducke,Iryanthera lancifolia,Iryanthera lancifolia Ducke,ACCEPTED,SPECIES,Iryanthera lancifolia,Iryanthera,Myristicaceae,EXACT,100.0,3743924.0,ACEPTAR,2026-11-17
+Iryanthera tessmannii Markgr.,Iryanthera tessmannii Markgr.,Iryanthera tessmannii,Iryanthera tessmannii Markgr.,ACCEPTED,SPECIES,Iryanthera tessmannii,Iryanthera,Myristicaceae,EXACT,100.0,3743197.0,ACEPTAR,2026-11-17
+Iryanthera ulei Warb.,Iryanthera ulei Warb.,Iryanthera ulei,Iryanthera ulei Warb.,ACCEPTED,SPECIES,Iryanthera ulei,Iryanthera,Myristicaceae,EXACT,100.0,3743150.0,ACEPTAR,2026-11-17
+Jacaranda copaia,Jacaranda copaia,Jacaranda copaia,Jacaranda copaia (Aubl.) D.Don,ACCEPTED,SPECIES,Jacaranda copaia,Jacaranda,Bignoniaceae,EXACT,100.0,7298763.0,ACEPTAR,2026-11-17
+Jacaratia digitata (Poepp.) Solms,Jacaratia digitata (Poepp.) Solms,Jacaratia digitata,Jacaratia digitata (Poepp. & Endl.) Solms,ACCEPTED,SPECIES,Jacaratia digitata,Jacaratia,Caricaceae,EXACT,100.0,3838792.0,ACEPTAR,2026-11-17
+Jatropa sp,Jatropa sp,Jatropa,"Jatropa J.A.Scopoli, 1777",SYNONYM,GENUS,Jatropa,Jatropha,Euphorbiaceae,HIGHERRANK,96.0,3919168.0,REVISAR,2026-11-17
+Jatropha curcas,Jatropha curcas,Jatropha curcas,Jatropha curcas L.,ACCEPTED,SPECIES,Jatropha curcas,Jatropha,Euphorbiaceae,EXACT,99.0,3072953.0,ACEPTAR,2026-11-17
+Juglans neotropica,Juglans neotropica,Juglans neotropica,Juglans neotropica Diels,ACCEPTED,SPECIES,Juglans neotropica,Juglans,Juglandaceae,EXACT,100.0,3054364.0,ACEPTAR,2026-11-17
+Juglans nigra,Juglans nigra,Juglans nigra,Juglans nigra L.,ACCEPTED,SPECIES,Juglans nigra,Juglans,Juglandaceae,EXACT,99.0,3054357.0,ACEPTAR,2026-11-17
+Juglans regia,Juglans regia,Juglans regia,Juglans regia L.,ACCEPTED,SPECIES,Juglans regia,Juglans,Juglandaceae,EXACT,100.0,3054368.0,ACEPTAR,2026-11-17
+Khaya nyasica,Khaya nyasica,Khaya nyasica,Khaya nyasica Stapf ex Baker fil.,ACCEPTED,SPECIES,Khaya nyasica,Khaya,Meliaceae,EXACT,99.0,3190509.0,ACEPTAR,2026-11-17
+Krameria lappacea,Krameria lappacea,Krameria lappacea,Krameria lappacea (Dombey) H.M.Burdet & B.B.Simpson,ACCEPTED,SPECIES,Krameria lappacea,Krameria,Krameriaceae,EXACT,100.0,5687593.0,ACEPTAR,2026-11-17
+Ladenbergia oblongifolia (Mutis) L.Andersson,Ladenbergia oblongifolia (Mutis) L.Andersson,Ladenbergia oblongifolia,Ladenbergia oblongifolia (Humb. ex Mutis) L.Andersson,ACCEPTED,SPECIES,Ladenbergia oblongifolia,Ladenbergia,Rubiaceae,EXACT,100.0,2908758.0,ACEPTAR,2026-11-17
+Lafoensia punicifolia,Lafoensia punicifolia,Lafoensia punicifolia,Lafoensia punicifolia Bertero ex DC.,ACCEPTED,SPECIES,Lafoensia punicifolia,Lafoensia,Lythraceae,EXACT,99.0,3989500.0,ACEPTAR,2026-11-17
+Lecointea amazonica,Lecointea amazonica,Lecointea amazonica,Lecointea amazonica Ducke,ACCEPTED,SPECIES,Lecointea amazonica,Lecointea,Fabaceae,EXACT,100.0,2965104.0,ACEPTAR,2026-11-17
+Leucaena leucocephala,Leucaena leucocephala,Leucaena leucocephala,Leucaena leucocephala (Lam.) de Wit,ACCEPTED,SPECIES,Leucaena leucocephala,Leucaena,Fabaceae,EXACT,99.0,2970418.0,ACEPTAR,2026-11-17
+Licania apetala,Licania apetala,Licania apetala,Licania apetala (E.Mey.) Fritsch,SYNONYM,SPECIES,Leptobalanus apetalus,Leptobalanus,Chrysobalanaceae,EXACT,99.0,2985563.0,ACEPTAR,2026-11-17
+Licaria cannella (Meisn.) Kosterm.,Licaria cannella (Meisn.) Kosterm.,Licaria canella,Licaria canella (Meisn.) Kosterm.,ACCEPTED,SPECIES,Licaria canella,Licaria,Lauraceae,FUZZY,100.0,7304725.0,ACEPTAR,2026-11-17
+Licaria triandra (Sw.) Kosterm.,Licaria triandra (Sw.) Kosterm.,Licaria triandra,Licaria triandra (Sw.) Kosterm.,ACCEPTED,SPECIES,Licaria triandra,Licaria,Lauraceae,EXACT,100.0,3033970.0,ACEPTAR,2026-11-17
+Lonchocarpus nicou,Lonchocarpus nicou,Lonchocarpus nicou,Lonchocarpus nicou (Aubl.) DC.,SYNONYM,SPECIES,Lonchocarpus heptaphyllus,Lonchocarpus,Fabaceae,EXACT,100.0,6372369.0,ACEPTAR,2026-11-17
+Loxopterygium huasango Spruce ex Engl.,Loxopterygium huasango Spruce ex Engl.,Loxopterygium huasango,Loxopterygium huasango Spruce ex Engl.,ACCEPTED,SPECIES,Loxopterygium huasango,Loxopterygium,Anacardiaceae,EXACT,100.0,3659882.0,ACEPTAR,2026-11-17
+Machaerium inundatum (Mart. ex Benth.) Ducke,Machaerium inundatum (Mart. ex Benth.) Ducke,Machaerium inundatum,Machaerium inundatum (Mart. ex Benth.) Ducke,ACCEPTED,SPECIES,Machaerium inundatum,Machaerium,Fabaceae,EXACT,100.0,5355050.0,ACEPTAR,2026-11-17
+Maclura tinctoria (L.) D. Don ex Steud.,Maclura tinctoria (L.) D. Don ex Steud.,Maclura tinctoria,Maclura tinctoria (L.) D.Don ex Steud.,ACCEPTED,SPECIES,Maclura tinctoria,Maclura,Moraceae,EXACT,100.0,2984583.0,ACEPTAR,2026-11-17
+Macrolobium acaciifolium (Benth.) Benth.,Macrolobium acaciifolium (Benth.) Benth.,Macrolobium acaciifolium,Macrolobium acaciifolium (Benth.) Benth.,ACCEPTED,SPECIES,Macrolobium acaciifolium,Macrolobium,Fabaceae,EXACT,100.0,2948882.0,ACEPTAR,2026-11-17
+Malpighia glabra,Malpighia glabra,Malpighia glabra,Malpighia glabra L.,ACCEPTED,SPECIES,Malpighia glabra,Malpighia,Malpighiaceae,EXACT,99.0,5421429.0,ACEPTAR,2026-11-17
+Mangifera indica,Mangifera indica,Mangifera indica,Mangifera indica L.,ACCEPTED,SPECIES,Mangifera indica,Mangifera,Anacardiaceae,EXACT,99.0,3190638.0,ACEPTAR,2026-11-17
+Manilkara bidentata (A. DC.) A. Chev.,Manilkara bidentata (A. DC.) A. Chev.,Manilkara bidentata,Manilkara bidentata (A.DC.) A.Chev.,ACCEPTED,SPECIES,Manilkara bidentata,Manilkara,Sapotaceae,EXACT,100.0,2885366.0,ACEPTAR,2026-11-17
+Manilkara inundata (Ducke) Ducke,Manilkara inundata (Ducke) Ducke,Manilkara inundata,Manilkara inundata (Ducke) Ducke,ACCEPTED,SPECIES,Manilkara inundata,Manilkara,Sapotaceae,EXACT,100.0,2885025.0,ACEPTAR,2026-11-17
+Maquira coriacea (H. Karst.) C.C. Berg,Maquira coriacea (H. Karst.) C.C. Berg,Maquira coriacea,Maquira coriacea (H.Karst.) C.C.Berg,ACCEPTED,SPECIES,Maquira coriacea,Maquira,Moraceae,EXACT,100.0,3763724.0,ACEPTAR,2026-11-17
+Matisia cordata Bonpl.,Matisia cordata Bonpl.,Matisia cordata,Matisia cordata Humb. & Bonpl.,ACCEPTED,SPECIES,Matisia cordata,Matisia,Malvaceae,EXACT,100.0,4073924.0,ACEPTAR,2026-11-17
+Matricaria chamomilla,Matricaria chamomilla,Matricaria chamomilla,Matricaria chamomilla L.,ACCEPTED,SPECIES,Matricaria chamomilla,Matricaria,Asteraceae,EXACT,99.0,8370958.0,ACEPTAR,2026-11-17
+Mauria heterophylla,Mauria heterophylla,Mauria heterophylla,Mauria heterophylla Kunth,ACCEPTED,SPECIES,Mauria heterophylla,Mauria,Anacardiaceae,EXACT,100.0,5544309.0,ACEPTAR,2026-11-17
+Mauritia flexuosa,Mauritia flexuosa,Mauritia flexuosa,Mauritia flexuosa L.f.,ACCEPTED,SPECIES,Mauritia flexuosa,Mauritia,Arecaceae,EXACT,100.0,5294777.0,ACEPTAR,2026-11-17
+Mayna parvifolium,Mayna parvifolium,Mayna parvifolia,Mayna parvifolia (J.F.Macbr.) Sleumer,SYNONYM,SPECIES,Casearia maynacarpa,Casearia,Salicaceae,FUZZY,97.0,3878570.0,ACEPTAR,2026-11-17
+Maytenus macrocarpa,Maytenus macrocarpa,Maytenus macrocarpa,Maytenus macrocarpa (Ruiz & Pav.) Briq.,SYNONYM,SPECIES,Monteverdia macrocarpa,Monteverdia,Celastraceae,EXACT,100.0,3792064.0,ACEPTAR,2026-11-17
+Melissa officinalis,Melissa officinalis,Melissa officinalis,Melissa officinalis L.,ACCEPTED,SPECIES,Melissa officinalis,Melissa,Lamiaceae,EXACT,100.0,5341501.0,ACEPTAR,2026-11-17
+Mentha piperita,Mentha piperita,Mentha piperita,Mentha × piperita L.,ACCEPTED,SPECIES,Mentha piperita,Mentha,Lamiaceae,EXACT,100.0,8707933.0,ACEPTAR,2026-11-17
+Mezilaurus itauba (Meisn. ex DC.) Taub. ex Mez,Mezilaurus itauba (Meisn. ex DC.) Taub. ex Mez,Mezilaurus itauba,Mezilaurus itauba (Meissner) Taubert,SYNONYM,SPECIES,Mezilaurus ita-uba,Mezilaurus,Lauraceae,EXACT,100.0,8567176.0,ACEPTAR,2026-11-17
+Miconia barbeyana,Miconia barbeyana,Miconia barbeyana,Miconia barbeyana Cogn.,ACCEPTED,SPECIES,Miconia barbeyana,Miconia,Melastomataceae,EXACT,100.0,10966188.0,ACEPTAR,2026-11-17
+Miconia longifolia,Miconia longifolia,Miconia longifolia,Miconia longifolia (Aubl.) DC.,ACCEPTED,SPECIES,Miconia longifolia,Miconia,Melastomataceae,EXACT,99.0,3862134.0,ACEPTAR,2026-11-17
+Miconia poeppigii,Miconia poeppigii,Miconia poeppigii,Miconia poeppigii Triana,ACCEPTED,SPECIES,Miconia poeppigii,Miconia,Melastomataceae,EXACT,100.0,3871048.0,ACEPTAR,2026-11-17
+Miconia tetragona Cogn.,Miconia tetragona Cogn.,Miconia tetragona,Miconia tetragona Cogn.,ACCEPTED,SPECIES,Miconia tetragona,Miconia,Melastomataceae,EXACT,100.0,3864950.0,ACEPTAR,2026-11-17
+Micrandra spruceana (Baill.) R.E. Schult.,Micrandra spruceana (Baill.) R.E. Schult.,Micrandra spruceana,Micrandra spruceana (Baill.) R.E.Schult.,ACCEPTED,SPECIES,Micrandra spruceana,Micrandra,Euphorbiaceae,EXACT,100.0,5378809.0,ACEPTAR,2026-11-17
+Minquartia guianensis,Minquartia guianensis,Minquartia guianensis,Minquartia guianensis Aubl.,ACCEPTED,SPECIES,Minquartia guianensis,Minquartia,Coulaceae,EXACT,100.0,3686157.0,ACEPTAR,2026-11-17
+Minthostachys setosa,Minthostachys setosa,Minthostachys setosa,Minthostachys setosa (Briq.) Epling,ACCEPTED,SPECIES,Minthostachys setosa,Minthostachys,Lamiaceae,EXACT,100.0,3884530.0,ACEPTAR,2026-11-17
+Morella pubescens (Humb. & Bonpl. ex Willd.) Wilbur,Morella pubescens (Humb. & Bonpl. ex Willd.) Wilbur,Morella pubescens,Morella pubescens (Humb. & Bonpl. ex Willd.) Wilbur,ACCEPTED,SPECIES,Morella pubescens,Morella,Myricaceae,EXACT,100.0,3744993.0,ACEPTAR,2026-11-17
+Moringa oleifera,Moringa oleifera,Moringa oleifera,Moringa oleifera Lam.,ACCEPTED,SPECIES,Moringa oleifera,Moringa,Moringaceae,EXACT,99.0,3054181.0,ACEPTAR,2026-11-17
+Muntingia Calabura,Muntingia calabura,Muntingia calabura,Muntingia calabura L.,ACCEPTED,SPECIES,Muntingia calabura,Muntingia,Muntingiaceae,EXACT,100.0,3152036.0,ACEPTAR,2026-11-17
+Myrciaria dubia,Myrciaria dubia,Myrciaria dubia,Myrciaria dubia (Kunth) Mc Vaugh,ACCEPTED,SPECIES,Myrciaria dubia,Myrciaria,Myrtaceae,EXACT,99.0,10342163.0,ACEPTAR,2026-11-17
+Myroxylon balsamum,Myroxylon balsamum,Myroxylon balsamum,Myroxylon balsamum (L.) Harms,ACCEPTED,SPECIES,Myroxylon balsamum,Myroxylon,Fabaceae,EXACT,99.0,5357190.0,ACEPTAR,2026-11-17
+Myroxylon peruiferum,Myroxylon peruiferum,Myroxylon peruiferum,Myroxylon peruiferum L.f.,ACCEPTED,SPECIES,Myroxylon peruiferum,Myroxylon,Fabaceae,EXACT,100.0,5357189.0,ACEPTAR,2026-11-17
+Myrsine oligophylla Zahlbr.,Myrsine oligophylla Zahlbr.,Myrsine oligophylla,Myrsine oligophylla Zahlbr.,ACCEPTED,SPECIES,Myrsine oligophylla,Myrsine,Primulaceae,EXACT,100.0,3720504.0,ACEPTAR,2026-11-17
+Myrsine pellucida (Ruiz & Pav.) Spreng.,Myrsine pellucida (Ruiz & Pav.) Spreng.,Myrsine pellucida,Myrsine pellucida (Ruiz & Pav.) Spreng.,ACCEPTED,SPECIES,Myrsine pellucida,Myrsine,Primulaceae,EXACT,100.0,3720332.0,ACEPTAR,2026-11-17
+Nectandra acutifolia (Ruiz & Pav.) Mez,Nectandra acutifolia (Ruiz & Pav.) Mez,Nectandra acutifolia,Nectandra acutifolia (Ruiz & Pav.) Mez,ACCEPTED,SPECIES,Nectandra acutifolia,Nectandra,Lauraceae,EXACT,100.0,5685517.0,ACEPTAR,2026-11-17
+Nectandra cissiflora Nees,Nectandra cissiflora Nees,Nectandra cissiflora,Nectandra cissiflora Nees,ACCEPTED,SPECIES,Nectandra cissiflora,Nectandra,Lauraceae,EXACT,100.0,5685370.0,ACEPTAR,2026-11-17
+Nectandra cuspidata Nees & Mart.,Nectandra cuspidata Nees & Mart.,Nectandra cuspidata,Nectandra cuspidata Nees & Mart. ex Nees,ACCEPTED,SPECIES,Nectandra cuspidata,Nectandra,Lauraceae,EXACT,100.0,7304294.0,ACEPTAR,2026-11-17
+Nectandra discolor (Kunth) Nees,Nectandra discolor (Kunth) Nees,Nectandra discolor,Nectandra discolor (Kunth) Nees,ACCEPTED,SPECIES,Nectandra discolor,Nectandra,Lauraceae,EXACT,100.0,7304286.0,ACEPTAR,2026-11-17
+Nectandra globosa,Nectandra globosa,Nectandra globosa,Nectandra globosa (Aubl.) Mez,ACCEPTED,SPECIES,Nectandra globosa,Nectandra,Lauraceae,EXACT,100.0,7304240.0,ACEPTAR,2026-11-17
+Nectandra hihua (Ruiz & Pav.) Rohwer,Nectandra hihua (Ruiz & Pav.) Rohwer,Nectandra hihua,Nectandra hihua (Ruiz & Pav.) Rohwer,ACCEPTED,SPECIES,Nectandra hihua,Nectandra,Lauraceae,EXACT,100.0,5371733.0,ACEPTAR,2026-11-17
+Nectandra lineatifolia (Ruiz & Pav.) Mez,Nectandra lineatifolia (Ruiz & Pav.) Mez,Nectandra lineatifolia,Nectandra lineatifolia (Ruiz & Pav.) Mez,ACCEPTED,SPECIES,Nectandra lineatifolia,Nectandra,Lauraceae,EXACT,100.0,5685102.0,ACEPTAR,2026-11-17
+Nectandra longifolia (Ruiz & Pav.) Nees,Nectandra longifolia (Ruiz & Pav.) Nees,Nectandra longifolia,Nectandra longifolia (Ruiz & Pav.) Nees,ACCEPTED,SPECIES,Nectandra longifolia,Nectandra,Lauraceae,EXACT,100.0,7304145.0,ACEPTAR,2026-11-17
+Nectandra membranacea (Sw.) Griseb.,Nectandra membranacea (Sw.) Griseb.,Nectandra membranacea,Nectandra membranacea (Sw.) Griseb.,ACCEPTED,SPECIES,Nectandra membranacea,Nectandra,Lauraceae,EXACT,100.0,5371736.0,ACEPTAR,2026-11-17
+Nectandra pulverulenta Nees,Nectandra pulverulenta Nees,Nectandra pulverulenta,Nectandra pulverulenta Nees,ACCEPTED,SPECIES,Nectandra pulverulenta,Nectandra,Lauraceae,EXACT,100.0,5686055.0,ACEPTAR,2026-11-17
+Nectandra reticulata,Nectandra reticulata,Nectandra,Nectandra Rol. ex Rottb.,ACCEPTED,GENUS,Nectandra,Nectandra,Lauraceae,HIGHERRANK,99.0,3034018.0,REVISAR,2026-11-17
+Nectandra reticulata (Ruiz & Pav.) Mez,Nectandra reticulata (Ruiz & Pav.) Mez,Nectandra reticulata,Nectandra reticulata (Ruiz & Pav.) Mez,SYNONYM,SPECIES,Nectandra villosa,Nectandra,Lauraceae,EXACT,100.0,5685985.0,ACEPTAR,2026-11-17
+Nectandra turbacensis (Kunth) Nees,Nectandra turbacensis (Kunth) Nees,Nectandra turbacensis,Nectandra turbacensis (Kunth) Nees,ACCEPTED,SPECIES,Nectandra turbacensis,Nectandra,Lauraceae,EXACT,100.0,5371729.0,ACEPTAR,2026-11-17
+Ochroma pyramidale,Ochroma pyramidale,Ochroma pyramidale,Ochroma pyramidale (Cav.) Urb.,ACCEPTED,SPECIES,Ochroma pyramidale,Ochroma,Malvaceae,EXACT,100.0,3152240.0,ACEPTAR,2026-11-17
+Ocotea aciphylla (Nees & Mart.) Mez,Ocotea aciphylla (Nees & Mart.) Mez,Ocotea aciphylla,Ocotea aciphylla (Nees) Mez,ACCEPTED,SPECIES,Ocotea aciphylla,Ocotea,Lauraceae,EXACT,100.0,7304296.0,ACEPTAR,2026-11-17
+Ocotea argyrophylla Ducke,Ocotea argyrophylla Ducke,Ocotea argyrophylla,Ocotea argyrophylla Ducke,ACCEPTED,SPECIES,Ocotea argyrophylla,Ocotea,Lauraceae,EXACT,100.0,4177527.0,ACEPTAR,2026-11-17
+Ocotea bofo Kunth,Ocotea bofo Kunth,Ocotea bofo,Ocotea bofo Kunth,ACCEPTED,SPECIES,Ocotea bofo,Ocotea,Lauraceae,EXACT,100.0,7359337.0,ACEPTAR,2026-11-17
+Ocotea cernua (Nees) Mez,Ocotea cernua (Nees) Mez,Ocotea cernua,Ocotea cernua (Nees) Mez,SYNONYM,SPECIES,Ocotea leptobotra,Ocotea,Lauraceae,EXACT,100.0,4176015.0,ACEPTAR,2026-11-17
+Ocotea cuprea (Meisn.) Mez,Ocotea cuprea (Meisn.) Mez,Ocotea cuprea,Ocotea cuprea (Meisn.) Mez,SYNONYM,SPECIES,Ocotea oblonga,Ocotea,Lauraceae,EXACT,100.0,4183133.0,ACEPTAR,2026-11-17
+Ocotea javitensis (Kunth) Pittier,Ocotea javitensis (Kunth) Pittier,Ocotea javitensis,Ocotea javitensis (Kunth) Pittier,ACCEPTED,SPECIES,Ocotea javitensis,Ocotea,Lauraceae,EXACT,100.0,7424176.0,ACEPTAR,2026-11-17
+Ocotea longifolia Kunth,Ocotea longifolia Kunth,Ocotea longifolia,Ocotea longifolia Kunth,SYNONYM,SPECIES,Mespilodaphne opifera,Mespilodaphne,Lauraceae,EXACT,100.0,4179357.0,ACEPTAR,2026-11-17
+Ocotea obovata,Ocotea obovata,Ocotea obovata,Ocotea obovata (Ruiz & Pav.) Mez,ACCEPTED,SPECIES,Ocotea obovata,Ocotea,Lauraceae,EXACT,100.0,4177633.0,ACEPTAR,2026-11-17
+Ocotea puberula (Rich.) Nees,Ocotea puberula (Rich.) Nees,Ocotea puberula,Ocotea puberula (Rich.) Nees,ACCEPTED,SPECIES,Ocotea puberula,Ocotea,Lauraceae,EXACT,100.0,7304142.0,ACEPTAR,2026-11-17
+Ocotea quixos,Ocotea quixos,Ocotea quixos,Ocotea quixos (Lam.) Kosterm. ex O.C.Schmidt,SYNONYM,SPECIES,Mespilodaphne quixos,Mespilodaphne,Lauraceae,EXACT,99.0,4175847.0,ACEPTAR,2026-11-17
+Ocotea sp.,Ocotea sp.,Ocotea,Ocotea Aubl.,ACCEPTED,GENUS,Ocotea,Ocotea,Lauraceae,HIGHERRANK,96.0,3034076.0,REVISAR,2026-11-17
+Oenocarpus bataua,Oenocarpus bataua,Oenocarpus bataua,Oenocarpus bataua Mart.,ACCEPTED,SPECIES,Oenocarpus bataua,Oenocarpus,Arecaceae,EXACT,100.0,2735462.0,ACEPTAR,2026-11-17
+Oenocarpus mapora,Oenocarpus mapora,Oenocarpus mapora,Oenocarpus mapora H.Karst.,ACCEPTED,SPECIES,Oenocarpus mapora,Oenocarpus,Arecaceae,EXACT,100.0,2735446.0,ACEPTAR,2026-11-17
+Olea europaea,Olea europaea,Olea europaea,Olea europaea L.,ACCEPTED,SPECIES,Olea europaea,Olea,Oleaceae,EXACT,99.0,5415040.0,ACEPTAR,2026-11-17
+Ormosia amazonica,Ormosia amazonica,Ormosia amazonica,Ormosia amazonica Ducke,ACCEPTED,SPECIES,Ormosia amazonica,Ormosia,Fabaceae,EXACT,100.0,5355607.0,ACEPTAR,2026-11-17
+Ormosia coccinea,Ormosia coccinea,Ormosia coccinea,Ormosia coccinea (Aubl.) Jacks.,ACCEPTED,SPECIES,Ormosia coccinea,Ormosia,Fabaceae,EXACT,100.0,5355587.0,ACEPTAR,2026-11-17
+Ormosia schunkei Rudd,Ormosia schunkei Rudd,Ormosia schunkei,Ormosia schunkei Rudd,ACCEPTED,SPECIES,Ormosia schunkei,Ormosia,Fabaceae,EXACT,100.0,5355471.0,ACEPTAR,2026-11-17
+Ormosia sp.,Ormosia sp.,Ormosia,Ormosia Jacks.,ACCEPTED,GENUS,Ormosia,Ormosia,Fabaceae,HIGHERRANK,96.0,2960439.0,REVISAR,2026-11-17
+Osteophloeum platyspermum (Spruce ex A. DC.) Warb.,Osteophloeum platyspermum (Spruce ex A. DC.) Warb.,Osteophloeum platyspermum,Osteophloeum platyspermum (A.DC.) Warb.,ACCEPTED,SPECIES,Osteophloeum platyspermum,Osteophloeum,Myristicaceae,EXACT,100.0,7333716.0,ACEPTAR,2026-11-17
+Otoba glycycarpa (Ducke) W.A.Rodrigues & T.S.Jaram.,Otoba glycycarpa (Ducke) W.A.Rodrigues & T.S.Jaram.,Otoba glycycarpa,Otoba glycycarpa (Ducke) W.A.Rodrigues & T.S.Jaram.,ACCEPTED,SPECIES,Otoba glycycarpa,Otoba,Myristicaceae,EXACT,100.0,3743774.0,ACEPTAR,2026-11-17
+Otoba parvifolia (Markgr.) A.H. Gentry,Otoba parvifolia (Markgr.) A.H. Gentry,Otoba parvifolia,Otoba parvifolia (Markgr.) A.H.Gentry,ACCEPTED,SPECIES,Otoba parvifolia,Otoba,Myristicaceae,EXACT,100.0,8645517.0,ACEPTAR,2026-11-17
+Oxandra espintana,Oxandra espintana,Oxandra espintana,Oxandra espintana (Spruce ex Benth.) Baill.,ACCEPTED,SPECIES,Oxandra espintana,Oxandra,Annonaceae,EXACT,100.0,3154751.0,ACEPTAR,2026-11-17
+Pachira insignis,Pachira insignis,Pachira insignis,Pachira insignis (Sw.) Sav.,ACCEPTED,SPECIES,Pachira insignis,Pachira,Malvaceae,EXACT,99.0,3152236.0,ACEPTAR,2026-11-17
+Palicourea lucidula Standl.,Palicourea lucidula Standl.,Palicourea lucidula,Palicourea lucidula Standl.,ACCEPTED,SPECIES,Palicourea lucidula,Palicourea,Rubiaceae,EXACT,100.0,2899376.0,ACEPTAR,2026-11-17
+Paramachaerium ormosioides (Ducke) Ducke,Paramachaerium ormosioides (Ducke) Ducke,Paramachaerium ormosioides,Paramachaerium ormosioides (Ducke) Ducke,ACCEPTED,SPECIES,Paramachaerium ormosioides,Paramachaerium,Fabaceae,EXACT,100.0,2959534.0,ACEPTAR,2026-11-17
+Paramachaerium schunkei Rudd,Paramachaerium schunkei Rudd,Paramachaerium schunkei,Paramachaerium schunkei Rudd,ACCEPTED,SPECIES,Paramachaerium schunkei,Paramachaerium,Fabaceae,EXACT,100.0,2959529.0,ACEPTAR,2026-11-17
+Parkia igneiflora Ducke,Parkia igneiflora Ducke,Parkia igneiflora,Parkia igneiflora Ducke,ACCEPTED,SPECIES,Parkia igneiflora,Parkia,Fabaceae,EXACT,100.0,5348829.0,ACEPTAR,2026-11-17
+Parkia nitida,Parkia nitida,Parkia nitida,Parkia nitida Miq.,ACCEPTED,SPECIES,Parkia nitida,Parkia,Fabaceae,EXACT,100.0,5348833.0,ACEPTAR,2026-11-17
+Parkia nitida Miq.,Parkia nitida Miq.,Parkia nitida,Parkia nitida Miq.,ACCEPTED,SPECIES,Parkia nitida,Parkia,Fabaceae,EXACT,100.0,5348833.0,ACEPTAR,2026-11-17
+Parkia pendula,Parkia pendula,Parkia pendula,Parkia pendula (Willd.) Benth. ex Walp.,ACCEPTED,SPECIES,Parkia pendula,Parkia,Fabaceae,EXACT,99.0,5348857.0,ACEPTAR,2026-11-17
+Parkia sp.,Parkia sp.,Parkia,Parkia R.Br.,ACCEPTED,GENUS,Parkia,Parkia,Fabaceae,HIGHERRANK,96.0,2943936.0,REVISAR,2026-11-17
+Parkinsonia Aculeata,Parkinsonia aculeata,Parkinsonia aculeata,Parkinsonia aculeata L.,ACCEPTED,SPECIES,Parkinsonia aculeata,Parkinsonia,Fabaceae,EXACT,100.0,5357217.0,ACEPTAR,2026-11-17
+Parkinsonia praecox,Parkinsonia praecox,Parkinsonia praecox,Parkinsonia praecox (Ruiz & Pav.) Hawkins,ACCEPTED,SPECIES,Parkinsonia praecox,Parkinsonia,Fabaceae,EXACT,100.0,8619679.0,ACEPTAR,2026-11-17
+Paulownia Elongata,Paulownia elongata,Paulownia elongata,Paulownia elongata S.Y.Hu,ACCEPTED,SPECIES,Paulownia elongata,Paulownia,Paulowniaceae,EXACT,100.0,3727093.0,ACEPTAR,2026-11-17
+Perebea guianensis,Perebea guianensis,Perebea guianensis,Perebea guianensis Aubl.,ACCEPTED,SPECIES,Perebea guianensis,Perebea,Moraceae,EXACT,100.0,7262696.0,ACEPTAR,2026-11-17
+Persea americana,Persea americana,Persea americana,Persea americana Mill.,ACCEPTED,SPECIES,Persea americana,Persea,Lauraceae,EXACT,99.0,3034046.0,ACEPTAR,2026-11-17
+Persea caerulea (Ruiz & Pav.) Mez,Persea caerulea (Ruiz & Pav.) Mez,Persea caerulea,Persea caerulea (Ruiz & Pav.) Mez,ACCEPTED,SPECIES,Persea caerulea,Persea,Lauraceae,EXACT,100.0,4175764.0,ACEPTAR,2026-11-17
+Persea camfora Spreng,Persea camfora Spreng,Persea camfora,Persea camfora (L.) Spreng.,SYNONYM,SPECIES,Cinnamomum camphora,Cinnamomum,Lauraceae,EXACT,100.0,4175746.0,ACEPTAR,2026-11-17
+Phyllanthus niruri,Phyllanthus niruri,Phyllanthus niruri,Phyllanthus niruri L.,ACCEPTED,SPECIES,Phyllanthus niruri,Phyllanthus,Phyllanthaceae,EXACT,99.0,5381945.0,ACEPTAR,2026-11-17
+Phyllanthus salviifolius,Phyllanthus salviifolius,Phyllanthus salviifolius,Phyllanthus salviifolius Kunth,ACCEPTED,SPECIES,Phyllanthus salviifolius,Phyllanthus,Phyllanthaceae,EXACT,100.0,5381107.0,ACEPTAR,2026-11-17
+Phyllanthus urinaria L.,Phyllanthus urinaria L.,Phyllanthus urinaria,Phyllanthus urinaria L.,ACCEPTED,SPECIES,Phyllanthus urinaria,Phyllanthus,Phyllanthaceae,EXACT,100.0,5382780.0,ACEPTAR,2026-11-17
+Phyllostachys aurea,Phyllostachys aurea,Phyllostachys aurea,Phyllostachys aurea (André) Rivière & C.Rivière,ACCEPTED,SPECIES,Phyllostachys aurea,Phyllostachys,Poaceae,EXACT,100.0,5290167.0,ACEPTAR,2026-11-17
+Phyllostachys nigra,Phyllostachys nigra,Phyllostachys nigra,Phyllostachys nigra (Lodd. ex Lindl.) Munro,ACCEPTED,SPECIES,Phyllostachys nigra,Phyllostachys,Poaceae,EXACT,100.0,5290171.0,ACEPTAR,2026-11-17
+Phytelephas macrocarpa,Phytelephas macrocarpa,Phytelephas macrocarpa,Phytelephas macrocarpa Ruiz & Pav.,ACCEPTED,SPECIES,Phytelephas macrocarpa,Phytelephas,Arecaceae,EXACT,100.0,2736300.0,ACEPTAR,2026-11-17
+Pinus caribaea Morelet,Pinus caribaea Morelet,Pinus caribaea,Pinus caribaea Morelet,ACCEPTED,SPECIES,Pinus caribaea,Pinus,Pinaceae,EXACT,100.0,5285740.0,ACEPTAR,2026-11-17
+Pinus elliottii Engelm.,Pinus elliottii Engelm.,Pinus elliottii,Pinus elliottii Engelm.,ACCEPTED,SPECIES,Pinus elliottii,Pinus,Pinaceae,EXACT,100.0,5285777.0,ACEPTAR,2026-11-17
+Pinus oocarpa Schiede ex Schltdl.,Pinus oocarpa Schiede ex Schltdl.,Pinus oocarpa,Pinus oocarpa Schiede ex Schltdl.,ACCEPTED,SPECIES,Pinus oocarpa,Pinus,Pinaceae,EXACT,100.0,5285220.0,ACEPTAR,2026-11-17
+Pinus patula,Pinus patula,Pinus patula,Pinus patula Schiede ex Schltdl. & Cham.,ACCEPTED,SPECIES,Pinus patula,Pinus,Pinaceae,EXACT,99.0,5285090.0,ACEPTAR,2026-11-17
+Pinus radiata D. Don,Pinus radiata D. Don,Pinus radiata,Pinus radiata D.Don,ACCEPTED,SPECIES,Pinus radiata,Pinus,Pinaceae,EXACT,100.0,5285727.0,ACEPTAR,2026-11-17
+Pinus sp.,Pinus sp.,Pinus,Pinus L.,ACCEPTED,GENUS,Pinus,Pinus,Pinaceae,HIGHERRANK,96.0,2684241.0,REVISAR,2026-11-17
+Pinus tecunumanii,Pinus tecunumanii,Pinus tecunumanii,Pinus tecunumanii Eguiluz & J.P.Perry,ACCEPTED,SPECIES,Pinus tecunumanii,Pinus,Pinaceae,EXACT,100.0,5285629.0,ACEPTAR,2026-11-17
+Piper aduncum,Piper aduncum,Piper aduncum,Piper aduncum L.,ACCEPTED,SPECIES,Piper aduncum,Piper,Piperaceae,EXACT,99.0,3086337.0,ACEPTAR,2026-11-17
+Piper hispidum Sw,Piper hispidum Sw,Piper hispidum,Piper hispidum Sw.,ACCEPTED,SPECIES,Piper hispidum,Piper,Piperaceae,EXACT,100.0,3086355.0,ACEPTAR,2026-11-17
+Piptadenia pteroclada,Piptadenia pteroclada,Piptadenia pteroclada,Piptadenia pteroclada Benth.,ACCEPTED,SPECIES,Piptadenia pteroclada,Piptadenia,Fabaceae,EXACT,100.0,2951808.0,ACEPTAR,2026-11-17
+Piptadenia robusta Pittier,Piptadenia robusta Pittier,Piptadenia robusta,Piptadenia robusta Pittier,ACCEPTED,SPECIES,Piptadenia robusta,Piptadenia,Fabaceae,EXACT,100.0,2951810.0,ACEPTAR,2026-11-17
+Piptocoma discolor (Kunth) Pruski,Piptocoma discolor (Kunth) Pruski,Piptocoma discolor,Piptocoma discolor (Kunth) Pruski,ACCEPTED,SPECIES,Piptocoma discolor,Piptocoma,Asteraceae,EXACT,100.0,3122128.0,ACEPTAR,2026-11-17
+Pithecellobium Multiflorum,Pithecellobium multiflorum,Fabaceae,Fabaceae,ACCEPTED,FAMILY,Fabaceae,,Fabaceae,HIGHERRANK,99.0,5386.0,REVISAR,2026-11-17
+Platymiscium pinnatum,Platymiscium pinnatum,Platymiscium pinnatum,Platymiscium pinnatum (Jacq.) Dugand,ACCEPTED,SPECIES,Platymiscium pinnatum,Platymiscium,Fabaceae,EXACT,100.0,2944742.0,ACEPTAR,2026-11-17
+Pleurothyrium cuneifolium Nees,Pleurothyrium cuneifolium Nees,Pleurothyrium cuneifolium,Pleurothyrium cuneifolium Nees,ACCEPTED,SPECIES,Pleurothyrium cuneifolium,Pleurothyrium,Lauraceae,EXACT,100.0,5685814.0,ACEPTAR,2026-11-17
+Pleurothyrium parviflorum Ducke,Pleurothyrium parviflorum Ducke,Pleurothyrium parviflorum,Pleurothyrium parviflorum Ducke,ACCEPTED,SPECIES,Pleurothyrium parviflorum,Pleurothyrium,Lauraceae,EXACT,100.0,5685691.0,ACEPTAR,2026-11-17
+Podocarpus glomeratus D. Don,Podocarpus glomeratus D. Don,Podocarpus glomeratus,Podocarpus glomeratus D.Don,ACCEPTED,SPECIES,Podocarpus glomeratus,Podocarpus,Podocarpaceae,EXACT,100.0,5286054.0,ACEPTAR,2026-11-17
+Podocarpus oleifolius D. Don ex Lamb.,Podocarpus oleifolius D. Don ex Lamb.,Podocarpus oleifolius,Podocarpus oleifolius D.Don,ACCEPTED,SPECIES,Podocarpus oleifolius,Podocarpus,Podocarpaceae,EXACT,100.0,5286006.0,ACEPTAR,2026-11-17
+Polylepis incana Kunth,Polylepis incana Kunth,Polylepis incana,Polylepis incana Kunth,ACCEPTED,SPECIES,Polylepis incana,Polylepis,Rosaceae,EXACT,100.0,5370633.0,ACEPTAR,2026-11-17
+Polylepis racemosa Ruiz & Pav.,Polylepis racemosa Ruiz & Pav.,Polylepis racemosa,Polylepis racemosa Ruiz & Pav.,ACCEPTED,SPECIES,Polylepis racemosa,Polylepis,Rosaceae,EXACT,100.0,5370613.0,ACEPTAR,2026-11-17
+Polypodium leucotomos,Polypodium leucotomos,Polypodium leucatomos,Polypodium leucatomos Poir.,SYNONYM,SPECIES,Phlebodium aureum,Phlebodium,Polypodiaceae,FUZZY,96.0,5647796.0,ACEPTAR,2026-11-17
+Poraqueiba sericea tulasne,Poraqueiba sericea tulasne,Poraqueiba sericea,Poraqueiba sericea Tul.,ACCEPTED,SPECIES,Poraqueiba sericea,Poraqueiba,Metteniusaceae,HIGHERRANK,100.0,3597450.0,ACEPTAR,2026-11-17
+Poulsenia armata (Miq.) Standl.,Poulsenia armata (Miq.) Standl.,Poulsenia armata,Poulsenia armata (Miq.) Standl.,ACCEPTED,SPECIES,Poulsenia armata,Poulsenia,Moraceae,EXACT,100.0,5570848.0,ACEPTAR,2026-11-17
+Pourouma cecropiifolia Mart.,Pourouma cecropiifolia Mart.,Pourouma cecropiifolia,Pourouma cecropiifolia Mart.,ACCEPTED,SPECIES,Pourouma cecropiifolia,Pourouma,Urticaceae,EXACT,100.0,4013508.0,ACEPTAR,2026-11-17
+Pourouma guianensis Aubl.,Pourouma guianensis Aubl.,Pourouma guianensis,Pourouma guianensis Aubl.,ACCEPTED,SPECIES,Pourouma guianensis,Pourouma,Urticaceae,EXACT,100.0,7316407.0,ACEPTAR,2026-11-17
+Pouteria caimito,Pouteria caimito,Pouteria caimito,Pouteria caimito (Ruiz & Pav.) Radlk.,ACCEPTED,SPECIES,Pouteria caimito,Pouteria,Sapotaceae,EXACT,100.0,2884788.0,ACEPTAR,2026-11-17
+Pouteria cladantha Sandwith,Pouteria cladantha Sandwith,Pouteria cladantha,Pouteria cladantha Sandwith,ACCEPTED,SPECIES,Pouteria cladantha,Pouteria,Sapotaceae,EXACT,100.0,2884943.0,ACEPTAR,2026-11-17
+Pouteria cuspidata (A. DC.) Baehni,Pouteria cuspidata (A. DC.) Baehni,Pouteria cuspidata,Pouteria cuspidata (A.DC.) Baehni,ACCEPTED,SPECIES,Pouteria cuspidata,Pouteria,Sapotaceae,EXACT,100.0,2884675.0,ACEPTAR,2026-11-17
+Pouteria guianensis,Pouteria guianensis,Pouteria guianensis,Pouteria guianensis Griseb.,ACCEPTED,SPECIES,Pouteria guianensis,Pouteria,Sapotaceae,EXACT,99.0,7485884.0,ACEPTAR,2026-11-17
+Pouteria macrocarpa,Pouteria macrocarpa,Pouteria macrocarpa,Pouteria macrocarpa (Mart.) D.Dietr.,ACCEPTED,SPECIES,Pouteria macrocarpa,Pouteria,Sapotaceae,EXACT,99.0,2884504.0,ACEPTAR,2026-11-17
+Pouteria procera (Mart.) K. Hammer,Pouteria procera (Mart.) K. Hammer,Pouteria procera,Pouteria procera (Mart.) K.Hammer,ACCEPTED,SPECIES,Pouteria procera,Pouteria,Sapotaceae,EXACT,100.0,2884909.0,ACEPTAR,2026-11-17
+Pouteria reticulata (Engl.) Eyma,Pouteria reticulata (Engl.) Eyma,Pouteria reticulata,Pouteria reticulata (Engl.) Eyma,ACCEPTED,SPECIES,Pouteria reticulata,Pouteria,Sapotaceae,EXACT,100.0,2884054.0,ACEPTAR,2026-11-17
+Pouteria sapota,Pouteria sapota,Pouteria sapota,Pouteria sapota (Jacq.) H.E.Moore & Stearn,ACCEPTED,SPECIES,Pouteria sapota,Pouteria,Sapotaceae,EXACT,100.0,2884162.0,ACEPTAR,2026-11-17
+Pouteria torta (Mart.) Radlk.,Pouteria torta (Mart.) Radlk.,Pouteria torta,Pouteria torta (Mart.) Radlk.,ACCEPTED,SPECIES,Pouteria torta,Pouteria,Sapotaceae,EXACT,100.0,2884812.0,ACEPTAR,2026-11-17
+Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth,Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth,Prosopis pallida,Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth,ACCEPTED,SPECIES,Prosopis pallida,Prosopis,Fabaceae,EXACT,100.0,5358525.0,ACEPTAR,2026-11-17
+Prosopis sp,Prosopis sp,Prosopis,Prosopis L.,ACCEPTED,GENUS,Prosopis,Prosopis,Fabaceae,HIGHERRANK,96.0,2970763.0,REVISAR,2026-11-17
+Protium aracouchini (Aubl.) Marchand,Protium aracouchini (Aubl.) Marchand,Protium aracouchini,Protium aracouchini (Aubl.) Marchand,ACCEPTED,SPECIES,Protium aracouchini,Protium,Burseraceae,EXACT,100.0,7286738.0,ACEPTAR,2026-11-17
+Protium grandifolium Engl.,Protium grandifolium Engl.,Protium grandifolium,Protium grandifolium Engl.,ACCEPTED,SPECIES,Protium grandifolium,Protium,Burseraceae,EXACT,100.0,3993107.0,ACEPTAR,2026-11-17
+Protium nodulosum Swart,Protium nodulosum Swart,Protium nodulosum,Protium nodulosum Swart,ACCEPTED,SPECIES,Protium nodulosum,Protium,Burseraceae,EXACT,100.0,3994070.0,ACEPTAR,2026-11-17
+Protium puncticulatum J.F. Macbr.,Protium puncticulatum J.F. Macbr.,Protium puncticulatum,Protium puncticulatum J.F.Macbr.,ACCEPTED,SPECIES,Protium puncticulatum,Protium,Burseraceae,EXACT,100.0,3993357.0,ACEPTAR,2026-11-17
+Protium sagotianum Marchand,Protium sagotianum Marchand,Protium sagotianum,Protium sagotianum Marchand,ACCEPTED,SPECIES,Protium sagotianum,Protium,Burseraceae,EXACT,100.0,3993226.0,ACEPTAR,2026-11-17
+Protium tenuifolium (Engl.) Engl.,Protium tenuifolium (Engl.) Engl.,Protium tenuifolium,Protium tenuifolium (Engl.) Engl.,ACCEPTED,SPECIES,Protium tenuifolium,Protium,Burseraceae,EXACT,100.0,7286790.0,ACEPTAR,2026-11-17
+Prumnopitys harmsiana (Pilg.) de Laub.,Prumnopitys harmsiana (Pilg.) de Laub.,Prumnopitys harmsiana,Prumnopitys harmsiana (Pilg.) de Laub.,ACCEPTED,SPECIES,Prumnopitys harmsiana,Prumnopitys,Podocarpaceae,EXACT,100.0,2687261.0,ACEPTAR,2026-11-17
+Pseudolmedia macrophylla,Pseudolmedia macrophylla,Pseudolmedia macrophylla,Pseudolmedia macrophylla Trécul,ACCEPTED,SPECIES,Pseudolmedia macrophylla,Pseudolmedia,Moraceae,EXACT,100.0,3764164.0,ACEPTAR,2026-11-17
+Psidium guajava L.,Psidium guajava L.,Psidium guajava,Psidium guajava L.,ACCEPTED,SPECIES,Psidium guajava,Psidium,Myrtaceae,EXACT,100.0,5420380.0,ACEPTAR,2026-11-17
+Psidium sp.,Psidium sp.,Psidium,Psidium L.,ACCEPTED,GENUS,Psidium,Psidium,Myrtaceae,HIGHERRANK,95.0,3187232.0,REVISAR,2026-11-17
+Psoralea glandulosa,Psoralea glandulosa,Psoralea glandulosa,Psoralea glandulosa L.,SYNONYM,SPECIES,Otholobium glandulosum,Psoralea,Fabaceae,EXACT,100.0,2944133.0,ACEPTAR,2026-11-17
+Pterocarpus rohrii Vahl,Pterocarpus rohrii Vahl,Pterocarpus rohrii,Pterocarpus rohrii Vahl,ACCEPTED,SPECIES,Pterocarpus rohrii,Pterocarpus,Fabaceae,EXACT,100.0,5349322.0,ACEPTAR,2026-11-17
+Pterocarpus ulei Harms,Pterocarpus ulei Harms,Pterocarpus ulei,Pterocarpus ulei Harms,SYNONYM,SPECIES,Pterocarpus amazonum,Pterocarpus,Fabaceae,EXACT,100.0,5349270.0,ACEPTAR,2026-11-17
+Pterygota amazonica,Pterygota amazonica,Pterygota amazonica,Pterygota amazonica L.O.Williams,ACCEPTED,SPECIES,Pterygota amazonica,Pterygota,Malvaceae,EXACT,99.0,3668296.0,ACEPTAR,2026-11-17
+Pulmonaria affinis jordan,Pulmonaria affinis jordan,Pulmonaria affinis,Pulmonaria affinis Jord.,ACCEPTED,SPECIES,Pulmonaria affinis,Pulmonaria,Boraginaceae,HIGHERRANK,100.0,5660579.0,ACEPTAR,2026-11-17
+Qualea paraensis Ducke,Qualea paraensis Ducke,Qualea paraensis,Qualea paraensis Ducke,ACCEPTED,SPECIES,Qualea paraensis,Qualea,Vochysiaceae,EXACT,100.0,4030655.0,ACEPTAR,2026-11-17
+Rauvolfia praecox K.Schum. ex Markgr.,Rauvolfia praecox K.Schum. ex Markgr.,Rauvolfia praecox,Rauvolfia praecox K.Schum. ex Markgr.,ACCEPTED,SPECIES,Rauvolfia praecox,Rauvolfia,Apocynaceae,EXACT,100.0,7580047.0,ACEPTAR,2026-11-17
+Rauwolfia praecox K.Schum. ex Markgr.,Rauwolfia praecox K.Schum. ex Markgr.,Rauwolfia praecox,Rauwolfia praecox K.Schum. ex Markgr.,ACCEPTED,SPECIES,Rauwolfia praecox,Rauvolfia,Apocynaceae,EXACT,100.0,8271706.0,ACEPTAR,2026-11-17
+Retrophyllum rospigliosii,Retrophyllum rospigliosii,Retrophyllum rospigliosii,Retrophyllum rospigliosii (Pilg.) C.N.Page,ACCEPTED,SPECIES,Retrophyllum rospigliosii,Retrophyllum,Podocarpaceae,EXACT,100.0,2687731.0,ACEPTAR,2026-11-17
+Rhigospira quadrangularis (Müll.Arg.) Miers,Rhigospira quadrangularis (Müll.Arg.) Miers,Rhigospira quadrangularis,Rhigospira quadrangularis (Müll.Arg.) Miers,ACCEPTED,SPECIES,Rhigospira quadrangularis,Rhigospira,Apocynaceae,EXACT,100.0,3615482.0,ACEPTAR,2026-11-17
+Rhodostemonodaphne kunthiana (Nees) Rohwer,Rhodostemonodaphne kunthiana (Nees) Rohwer,Rhodostemonodaphne kunthiana,Rhodostemonodaphne kunthiana (Nees) Rohwer,ACCEPTED,SPECIES,Rhodostemonodaphne kunthiana,Rhodostemonodaphne,Lauraceae,EXACT,100.0,4179128.0,ACEPTAR,2026-11-17
+Rollinia mucosa,Rollinia mucosa,Rollinia mucosa,Rollinia mucosa (Jacq.) Baill.,SYNONYM,SPECIES,Annona mucosa,Annona,Annonaceae,EXACT,100.0,3158590.0,ACEPTAR,2026-11-17
+Roupala montana Aubl.,Roupala montana Aubl.,Roupala montana,Roupala montana Aubl.,ACCEPTED,SPECIES,Roupala montana,Roupala,Proteaceae,EXACT,100.0,7831077.0,ACEPTAR,2026-11-17
+Salix humboldtiana Willd.,Salix humboldtiana Willd.,Salix humboldtiana,Salix humboldtiana Willd.,ACCEPTED,SPECIES,Salix humboldtiana,Salix,Salicaceae,EXACT,100.0,5372914.0,ACEPTAR,2026-11-17
+Sambucus peruviana,Sambucus peruviana,Sambucus peruviana,Sambucus peruviana Kunth,ACCEPTED,SPECIES,Sambucus peruviana,Sambucus,Viburnaceae,EXACT,100.0,3857458.0,ACEPTAR,2026-11-17
+Sanguisorba minor,Sanguisorba minor,Sanguisorba minor,Sanguisorba minor Scop.,SYNONYM,SPECIES,Poterium sanguisorba,Poterium,Rosaceae,EXACT,99.0,3029430.0,ACEPTAR,2026-11-17
+Sapindus saponaria,Sapindus saponaria,Sapindus saponaria,Sapindus saponaria L.,ACCEPTED,SPECIES,Sapindus saponaria,Sapindus,Sapindaceae,EXACT,99.0,8017915.0,ACEPTAR,2026-11-17
+Sapium glandulosum,Sapium glandulosum,Sapium glandulosum,Sapium glandulosum (L.) Morong,ACCEPTED,SPECIES,Sapium glandulosum,Sapium,Euphorbiaceae,EXACT,99.0,5379918.0,ACEPTAR,2026-11-17
+Schefflera morototoni,Schefflera morototoni,Schefflera morototoni,"Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin",SYNONYM,SPECIES,Didymopanax morototoni,Didymopanax,Araliaceae,EXACT,100.0,3038503.0,ACEPTAR,2026-11-17
+Schinus molle,Schinus molle,Schinus molle,Schinus molle L.,ACCEPTED,SPECIES,Schinus molle,Schinus,Anacardiaceae,EXACT,99.0,3190642.0,ACEPTAR,2026-11-17
+Schizolobium amazonicum,Schizolobium amazonicum,Schizolobium amazonicum,Schizolobium amazonicum Huber ex Ducke,SYNONYM,SPECIES,Schizolobium parahyba,Schizolobium,Fabaceae,EXACT,99.0,2945461.0,ACEPTAR,2026-11-17
+Schizolobium excelsum,Schizolobium excelsum,Schizolobium excelsum,Schizolobium excelsum Vogel,SYNONYM,SPECIES,Schizolobium parahyba,Schizolobium,Fabaceae,EXACT,100.0,2945459.0,ACEPTAR,2026-11-17
+Schizolobium parahyba,Schizolobium parahyba,Schizolobium parahyba,Schizolobium parahyba (Vell.) S.F.Blake,ACCEPTED,SPECIES,Schizolobium parahyba,Schizolobium,Fabaceae,EXACT,100.0,2945453.0,ACEPTAR,2026-11-17
+Sclerolobium paniculatum Vogel,Sclerolobium paniculatum Vogel,Sclerolobium paniculatum,Sclerolobium paniculatum Vogel,SYNONYM,SPECIES,Tachigali vulgaris,Tachigali,Fabaceae,EXACT,100.0,2952587.0,ACEPTAR,2026-11-17
+Sedum frutescens,Sedum frutescens,Sedum frutescens,Sedum frutescens Rose,ACCEPTED,SPECIES,Sedum frutescens,Sedum,Crassulaceae,EXACT,100.0,5688896.0,ACEPTAR,2026-11-17
+Senegalia tenuifolia (L.) Britton & Rose,Senegalia tenuifolia (L.) Britton & Rose,Senegalia tenuifolia,Senegalia tenuifolia (L.) Britton & Rose,ACCEPTED,SPECIES,Senegalia tenuifolia,Senegalia,Fabaceae,EXACT,100.0,2979126.0,ACEPTAR,2026-11-17
+Simarouba amara,Simarouba amara,Simarouba amara,Simarouba amara Aubl.,ACCEPTED,SPECIES,Simarouba amara,Simarouba,Simaroubaceae,EXACT,99.0,7720664.0,ACEPTAR,2026-11-17
+Simira rubescens,Simira rubescens,Simira rubescens,Simira rubescens (Benth.) Bremek. ex Steyerm.,ACCEPTED,SPECIES,Simira rubescens,Simira,Rubiaceae,EXACT,99.0,5335279.0,ACEPTAR,2026-11-17
+Sloanea guianensis (Aubl.) Benth.,Sloanea guianensis (Aubl.) Benth.,Sloanea guianensis,Sloanea guianensis (Aubl.) Benth.,ACCEPTED,SPECIES,Sloanea guianensis,Sloanea,Elaeocarpaceae,EXACT,100.0,7291059.0,ACEPTAR,2026-11-17
+Sloanea latifolia (rich.) K. Schum,Sloanea latifolia (rich.) K. Schum,Sloanea latifolia,Sloanea latifolia (Rich.) K.Schum.,ACCEPTED,SPECIES,Sloanea latifolia,Sloanea,Elaeocarpaceae,EXACT,100.0,5651129.0,ACEPTAR,2026-11-17
+Solanum pseudosycophanta,Solanum pseudosycophanta,Solanum pseudosycophanta,Solanum pseudosycophanta Farruggia,ACCEPTED,SPECIES,Solanum pseudosycophanta,Solanum,Solanaceae,EXACT,100.0,7617327.0,ACEPTAR,2026-11-17
+Sorocea guilleminiana,Sorocea guilleminiana,Sorocea guilleminiana,Sorocea guilleminiana Gaudich.,ACCEPTED,SPECIES,Sorocea guilleminiana,Sorocea,Moraceae,EXACT,100.0,3762938.0,ACEPTAR,2026-11-17
+Spondias dulcis,Spondias dulcis,Spondias dulcis,Spondias dulcis Parkinson,ACCEPTED,SPECIES,Spondias dulcis,Spondias,Anacardiaceae,EXACT,99.0,3190595.0,ACEPTAR,2026-11-17
+Spondias mombin,Spondias mombin,Spondias mombin,Spondias mombin Jacq.,ACCEPTED,SPECIES,Spondias mombin,Spondias,Anacardiaceae,EXACT,99.0,8185571.0,ACEPTAR,2026-11-17
+Spondias purpurea,Spondias purpurea,Spondias purpurea,Spondias purpurea L.,ACCEPTED,SPECIES,Spondias purpurea,Spondias,Anacardiaceae,EXACT,100.0,3190598.0,ACEPTAR,2026-11-17
+Sterculia apetala (Jacq.) H. Karst.,Sterculia apetala (Jacq.) H. Karst.,Sterculia apetala,Sterculia apetala (Jacq.) H.Karst.,ACCEPTED,SPECIES,Sterculia apetala,Sterculia,Malvaceae,EXACT,100.0,5406679.0,ACEPTAR,2026-11-17
+Swietenia macrophylla,Swietenia macrophylla,Swietenia macrophylla,Swietenia macrophylla G.King,ACCEPTED,SPECIES,Swietenia macrophylla,Swietenia,Meliaceae,EXACT,100.0,3190484.0,ACEPTAR,2026-11-17
+Symphonia globulifera L. f.,Symphonia globulifera L. f.,Symphonia globulifera,Symphonia globulifera L.fil.,ACCEPTED,SPECIES,Symphonia globulifera,Symphonia,Clusiaceae,EXACT,100.0,8185162.0,ACEPTAR,2026-11-17
+Syzygium jambos,Syzygium jambos,Syzygium jambos,Syzygium jambos (L.) Alston,ACCEPTED,SPECIES,Syzygium jambos,Syzygium,Myrtaceae,EXACT,100.0,3183534.0,ACEPTAR,2026-11-17
+Syzygium sp,Syzygium sp,Syzygium,Syzygium Gaertn.,ACCEPTED,GENUS,Syzygium,Syzygium,Myrtaceae,HIGHERRANK,95.0,3029010.0,REVISAR,2026-11-17
+Tabebuia capitata (Bureau & K. Schum.) Sandwith,Tabebuia capitata (Bureau & K. Schum.) Sandwith,Tabebuia capitata,Tabebuia capitata (Bureau & K.Schum.) Sandwith,SYNONYM,SPECIES,Handroanthus capitatus,Handroanthus,Bignoniaceae,EXACT,100.0,4094684.0,ACEPTAR,2026-11-17
+Tabebuia impetiginosa,Tabebuia impetiginosa,Tabebuia impetiginosa,Tabebuia impetiginosa Mart ex DC,ACCEPTED,SPECIES,Tabebuia impetiginosa,Tabebuia,Bignoniaceae,EXACT,99.0,10778380.0,ACEPTAR,2026-11-17
+Tabebuia incana A.H. Gentry,Tabebuia incana A.H. Gentry,Tabebuia incana,Tabebuia incana A.H.Gentry,SYNONYM,SPECIES,Handroanthus incanus,Handroanthus,Bignoniaceae,EXACT,100.0,4093387.0,ACEPTAR,2026-11-17
+Tabebuia ochracea,Tabebuia ochracea,Tabebuia ochracea,Tabebuia ochracea A.H.Gentry,ACCEPTED,SPECIES,Tabebuia ochracea,Tabebuia,Bignoniaceae,EXACT,99.0,7880545.0,ACEPTAR,2026-11-17
+Tabernaemontana arcuata,Tabernaemontana arcuata,Tabernaemontana arcuata,Tabernaemontana arcuata Ruiz & Pav.,SYNONYM,SPECIES,Tabernaemontana cymosa,Tabernaemontana,Apocynaceae,EXACT,100.0,3618918.0,ACEPTAR,2026-11-17
+Tachigali Chrysaloides,Tachigali chrysaloides,Tachigali chrysaloides,Tachigali chrysaloides van der Werff,ACCEPTED,SPECIES,Tachigali chrysaloides,Tachigali,Fabaceae,EXACT,99.0,7760220.0,ACEPTAR,2026-11-17
+Tachigali polyphylla Poepp. & Endl.,Tachigali polyphylla Poepp. & Endl.,Tachigali polyphylla,Tachigali polyphylla Poepp.,SYNONYM,SPECIES,Tachigali poeppigiana,Tachigali,Fabaceae,EXACT,100.0,2945175.0,ACEPTAR,2026-11-17
+Tamarindus indica,Tamarindus indica,Tamarindus indica,Tamarindus indica L.,ACCEPTED,SPECIES,Tamarindus indica,Tamarindus,Fabaceae,EXACT,100.0,2975768.0,ACEPTAR,2026-11-17
+Tamarix aphylla,Tamarix aphylla,Tamarix aphylla,Tamarix aphylla (L.) H.Karst.,ACCEPTED,SPECIES,Tamarix aphylla,Tamarix,Tamaricaceae,EXACT,99.0,2874704.0,ACEPTAR,2026-11-17
+Tapirira guianensis,Tapirira guianensis,Tapirira guianensis,Tapirira guianensis Aubl.,ACCEPTED,SPECIES,Tapirira guianensis,Tapirira,Anacardiaceae,EXACT,100.0,7321555.0,ACEPTAR,2026-11-17
+Taraxacum officinale,Taraxacum officinale,Taraxacum officinale,Taraxacum officinale Weber ex F.H.Wigg.,ACCEPTED,SPECIES,Taraxacum officinale,Taraxacum,Asteraceae,EXACT,99.0,5394163.0,ACEPTAR,2026-11-17
+Tecoma sp.,Tecoma sp.,Tecoma,Tecoma Juss.,ACCEPTED,GENUS,Tecoma,Tecoma,Bignoniaceae,HIGHERRANK,96.0,3172488.0,REVISAR,2026-11-17
+Tectona grandis,Tectona grandis,Tectona grandis,Tectona grandis L.f.,ACCEPTED,SPECIES,Tectona grandis,Tectona,Lamiaceae,EXACT,99.0,2925649.0,ACEPTAR,2026-11-17
+Terminalia amazonia (J.F. Gmel.) Exell,Terminalia amazonia (J.F. Gmel.) Exell,Terminalia amazonia,Terminalia amazonia (J.F.Gmel.) Exell,SYNONYM,SPECIES,Terminalia amazonica,Terminalia,Combretaceae,EXACT,100.0,3699754.0,ACEPTAR,2026-11-17
+Terminalia oblonga (Ruiz & Pav.) Steud.,Terminalia oblonga (Ruiz & Pav.) Steud.,Terminalia oblonga,Terminalia oblonga (Ruiz & Pav.) Steud.,ACCEPTED,SPECIES,Terminalia oblonga,Terminalia,Combretaceae,EXACT,100.0,3189396.0,ACEPTAR,2026-11-17
+Tetragastris altissima (Aubl.) Swart,Tetragastris altissima (Aubl.) Swart,Tetragastris altissima,Tetragastris altissima (Aubl.) Swart,ACCEPTED,SPECIES,Tetragastris altissima,Tetragastris,Burseraceae,EXACT,100.0,3994018.0,ACEPTAR,2026-11-17
+Tetragastris panamensis (Engl.) Kuntze,Tetragastris panamensis (Engl.) Kuntze,Tetragastris panamensis,Tetragastris panamensis (Engl.) Kuntze,ACCEPTED,SPECIES,Tetragastris panamensis,Tetragastris,Burseraceae,EXACT,100.0,7286863.0,ACEPTAR,2026-11-17
+Tetrorchidium rubrivenium,Tetrorchidium rubrivenium,Tetrorchidium rubrivenium,Tetrorchidium rubrivenium Poepp.,ACCEPTED,SPECIES,Tetrorchidium rubrivenium,Tetrorchidium,Euphorbiaceae,EXACT,100.0,3062925.0,ACEPTAR,2026-11-17
+Theobroma cacao,Theobroma cacao,Theobroma cacao,Theobroma cacao L.,ACCEPTED,SPECIES,Theobroma cacao,Theobroma,Malvaceae,EXACT,100.0,3152205.0,ACEPTAR,2026-11-17
+Theobroma grandiflora,Theobroma grandiflora,Theobroma grandiflorum,Theobroma grandiflorum (Willd. ex Spreng.) Schum.,ACCEPTED,SPECIES,Theobroma grandiflorum,Theobroma,Malvaceae,FUZZY,95.0,3152208.0,ACEPTAR,2026-11-17
+Theobroma speciosa,Theobroma speciosa,Theobroma speciosum,Theobroma speciosum Willd. ex Spreng.,ACCEPTED,SPECIES,Theobroma speciosum,Theobroma,Malvaceae,FUZZY,96.0,7657303.0,ACEPTAR,2026-11-17
+Trattinnickia aspera (Standl.) Swart,Trattinnickia aspera (Standl.) Swart,Trattinnickia aspera,Trattinnickia aspera (Standl.) Swart,ACCEPTED,SPECIES,Trattinnickia aspera,Trattinnickia,Burseraceae,EXACT,100.0,3992709.0,ACEPTAR,2026-11-17
+Trattinnickia peruviana Loes.,Trattinnickia peruviana Loes.,Trattinnickia peruviana,Trattinnickia peruviana Loes.,ACCEPTED,SPECIES,Trattinnickia peruviana,Trattinnickia,Burseraceae,EXACT,100.0,3994303.0,ACEPTAR,2026-11-17
+Trema micrantha,Trema micrantha,Trema micranthum,Trema micranthum (L.) Blume,ACCEPTED,SPECIES,Trema micranthum,Trema,Cannabaceae,FUZZY,98.0,2984501.0,ACEPTAR,2026-11-17
+Trichilia pleeana (A. Juss.) C. DC.,Trichilia pleeana (A. Juss.) C. DC.,Trichilia pleeana,Trichilia pleeana (A.Juss.) C.DC.,ACCEPTED,SPECIES,Trichilia pleeana,Trichilia,Meliaceae,EXACT,100.0,3852019.0,ACEPTAR,2026-11-17
+Trichilia quadrijuga Kunth,Trichilia quadrijuga Kunth,Trichilia quadrijuga,Trichilia quadrijuga Kunth,ACCEPTED,SPECIES,Trichilia quadrijuga,Trichilia,Meliaceae,EXACT,100.0,7271413.0,ACEPTAR,2026-11-17
+Triplaris sp,Triplaris sp,Triplaris,Triplaris Loefl. ex L.,ACCEPTED,GENUS,Triplaris,Triplaris,Polygonaceae,HIGHERRANK,95.0,6390747.0,REVISAR,2026-11-17
+Tussilago farfara,Tussilago farfara,Tussilago farfara,Tussilago farfara L.,ACCEPTED,SPECIES,Tussilago farfara,Tussilago,Asteraceae,EXACT,100.0,3149879.0,ACEPTAR,2026-11-17
+Tynanthus panurensis (Bureau) Sandwith,Tynanthus panurensis (Bureau) Sandwith,Tynanthus panurensis,Tynanthus panurensis (Bureau) Sandwith,ACCEPTED,SPECIES,Tynanthus panurensis,Tynanthus,Bignoniaceae,EXACT,100.0,4093064.0,ACEPTAR,2026-11-17
+Uncaria tomentosa,Uncaria tomentosa,Uncaria tomentosa,Uncaria tomentosa (Willd. ex Schult.) DC.,ACCEPTED,SPECIES,Uncaria tomentosa,Uncaria,Rubiaceae,EXACT,100.0,5338267.0,ACEPTAR,2026-11-17
+Urtica urens,Urtica urens,Urtica urens,Urtica urens L.,ACCEPTED,SPECIES,Urtica urens,Urtica,Urticaceae,EXACT,99.0,5361815.0,ACEPTAR,2026-11-17
+Vachellia macracantha (Humb. & Bonpl. ex Willd.) Seigler & Ebinger,Vachellia macracantha (Humb. & Bonpl. ex Willd.) Seigler & Ebinger,Vachellia macracantha,Vachellia macracantha (Humb. & Bonpl. ex Willd.) Seigler & Ebinger,ACCEPTED,SPECIES,Vachellia macracantha,Vachellia,Fabaceae,EXACT,100.0,3795445.0,ACEPTAR,2026-11-17
+Vachellia nilotica,Vachellia nilotica,Vachellia nilotica,Vachellia nilotica (L.) P.J.H.Hurter & Mabb.,ACCEPTED,SPECIES,Vachellia nilotica,Vachellia,Fabaceae,EXACT,100.0,3974744.0,ACEPTAR,2026-11-17
+Vainilla pompona,Vainilla pompona,Vanilla pompona,Vanilla pompona Schiede,ACCEPTED,SPECIES,Vanilla pompona,Vanilla,Orchidaceae,FUZZY,89.0,2803463.0,REVISAR,2026-11-17
+Valeriana sp,Valeriana sp,Valeriana,Valeriana L.,ACCEPTED,GENUS,Valeriana,Valeriana,Caprifoliaceae,HIGHERRANK,96.0,2888741.0,REVISAR,2026-11-17
+Vanilla planifolia,Vanilla planifolia,Vanilla planifolia,Vanilla planifolia Andrews,ACCEPTED,SPECIES,Vanilla planifolia,Vanilla,Orchidaceae,EXACT,99.0,2803398.0,ACEPTAR,2026-11-17
+Vatairea guianensis Aubl.,Vatairea guianensis Aubl.,Vatairea guianensis,Vatairea guianensis Aubl.,ACCEPTED,SPECIES,Vatairea guianensis,Vatairea,Fabaceae,EXACT,100.0,2965124.0,ACEPTAR,2026-11-17
+Virola albidiflora Ducke,Virola albidiflora Ducke,Virola albidiflora,Virola albidiflora Ducke,ACCEPTED,SPECIES,Virola albidiflora,Virola,Myristicaceae,EXACT,100.0,3743690.0,ACEPTAR,2026-11-17
+Virola calophylla (Spruce) Warb.,Virola calophylla (Spruce) Warb.,Virola calophylla,Virola calophylla (Spruce) Warb.,ACCEPTED,SPECIES,Virola calophylla,Virola,Myristicaceae,EXACT,100.0,3152847.0,ACEPTAR,2026-11-17
+Virola decorticans Ducke,Virola decorticans Ducke,Virola decorticans,Virola decorticans Ducke,ACCEPTED,SPECIES,Virola decorticans,Virola,Myristicaceae,EXACT,100.0,3743497.0,ACEPTAR,2026-11-17
+Virola elongata (Benth.) Warb.,Virola elongata (Benth.) Warb.,Virola elongata,Virola elongata (Benth.) Warb.,ACCEPTED,SPECIES,Virola elongata,Virola,Myristicaceae,EXACT,100.0,7171876.0,ACEPTAR,2026-11-17
+Virola flexuosa A.C. Sm.,Virola flexuosa A.C. Sm.,Virola flexuosa,Virola flexuosa A.C.Sm.,ACCEPTED,SPECIES,Virola flexuosa,Virola,Myristicaceae,EXACT,100.0,3743391.0,ACEPTAR,2026-11-17
+Virola mollissima (Poepp. ex A. DC.) Warb.,Virola mollissima (Poepp. ex A. DC.) Warb.,Virola mollissima,Virola mollissima (A.DC.) Warb.,ACCEPTED,SPECIES,Virola mollissima,Virola,Myristicaceae,EXACT,100.0,3743067.0,ACEPTAR,2026-11-17
+Virola pavonis (A. DC.) A.C. Sm.,Virola pavonis (A. DC.) A.C. Sm.,Virola pavonis,Virola pavonis (A.DC.) A.C.Sm.,ACCEPTED,SPECIES,Virola pavonis,Virola,Myristicaceae,EXACT,100.0,3744236.0,ACEPTAR,2026-11-17
+Virola peruviana (A. DC.) Warb.,Virola peruviana (A. DC.) Warb.,Virola peruviana,Virola peruviana (A.DC.) Warb.,ACCEPTED,SPECIES,Virola peruviana,Virola,Myristicaceae,EXACT,100.0,7333773.0,ACEPTAR,2026-11-17
+Virola sebifera Aubl.,Virola sebifera Aubl.,Virola sebifera,Virola sebifera Aubl.,ACCEPTED,SPECIES,Virola sebifera,Virola,Myristicaceae,EXACT,100.0,3152846.0,ACEPTAR,2026-11-17
+Virola surinamensis (Rol. ex Rottb.) Warb.,Virola surinamensis (Rol. ex Rottb.) Warb.,Virola surinamensis,Virola surinamensis (Rol. ex Rottb.) Warb.,ACCEPTED,SPECIES,Virola surinamensis,Virola,Myristicaceae,EXACT,100.0,3152848.0,ACEPTAR,2026-11-17
+Vismia macrophylla Kunth,Vismia macrophylla Kunth,Vismia macrophylla,Vismia macrophylla Kunth,ACCEPTED,SPECIES,Vismia macrophylla,Vismia,Hypericaceae,EXACT,100.0,7798391.0,ACEPTAR,2026-11-17
+Vitex orinocensis var multiflora,Vitex orinocensis var multiflora,Vitex orinocensis multiflora,Vitex orinocensis var. multiflora (Miq.) Huber,ACCEPTED,VARIETY,Vitex orinocensis,Vitex,Lamiaceae,EXACT,100.0,3903846.0,ACEPTAR,2026-11-17
+Vitex pseudolea,Vitex pseudolea,Vitex pseudolea,Vitex pseudolea Rusby,ACCEPTED,SPECIES,Vitex pseudolea,Vitex,Lamiaceae,EXACT,100.0,3903497.0,ACEPTAR,2026-11-17
+Vitex sp,Vitex sp,Vitex,Vitex L.,ACCEPTED,GENUS,Vitex,Vitex,Lamiaceae,HIGHERRANK,96.0,2925556.0,REVISAR,2026-11-17
+Vochysia biloba,Vochysia biloba,Vochysia biloba,Vochysia biloba Ducke,ACCEPTED,SPECIES,Vochysia biloba,Vochysia,Vochysiaceae,EXACT,100.0,4030704.0,ACEPTAR,2026-11-17
+Vochysia vismiifolia Spruce ex Warm.,Vochysia vismiifolia Spruce ex Warm.,Vochysia vismiifolia,Vochysia vismiifolia Spruce ex Warm.,ACCEPTED,SPECIES,Vochysia vismiifolia,Vochysia,Vochysiaceae,EXACT,100.0,7288386.0,ACEPTAR,2026-11-17
+Vouacapoua americana Aubl.,Vouacapoua americana Aubl.,Vouacapoua americana,Vouacapoua americana Aubl.,ACCEPTED,SPECIES,Vouacapoua americana,Vouacapoua,Fabaceae,EXACT,100.0,2940383.0,ACEPTAR,2026-11-17
+Weinmannia latifolia,Weinmannia latifolia,Weinmannia latifolia,Weinmannia latifolia C.Presl,ACCEPTED,SPECIES,Weinmannia latifolia,Weinmannia,Cunoniaceae,EXACT,99.0,7619797.0,ACEPTAR,2026-11-17
+Zanthoxylum fagara,Zanthoxylum fagara,Zanthoxylum fagara,Zanthoxylum fagara (L.) Sarg.,ACCEPTED,SPECIES,Zanthoxylum fagara,Zanthoxylum,Rutaceae,EXACT,100.0,3190090.0,ACEPTAR,2026-11-17
+Zanthoxylum juniperinum,Zanthoxylum juniperinum,Zanthoxylum juniperinum,Zanthoxylum juniperinum Poepp.,SYNONYM,SPECIES,Zanthoxylum acuminatum,Zanthoxylum,Rutaceae,EXACT,100.0,3837468.0,ACEPTAR,2026-11-17
+Zanthoxylum rhoifolium,Zanthoxylum rhoifolium,Zanthoxylum rhoifolium,Zanthoxylum rhoifolium Lam.,ACCEPTED,SPECIES,Zanthoxylum rhoifolium,Zanthoxylum,Rutaceae,EXACT,100.0,7269222.0,ACEPTAR,2026-11-17
+Zanthoxylum sp.,Zanthoxylum sp.,Zanthoxylum,Zanthoxylum L.,ACCEPTED,GENUS,Zanthoxylum,Zanthoxylum,Rutaceae,HIGHERRANK,96.0,3190076.0,REVISAR,2026-11-17

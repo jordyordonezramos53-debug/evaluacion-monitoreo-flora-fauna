@@ -1,0 +1,8 @@
+variable,situacion,consecuencia
+Coordenadas o polígonos,No existe,Impide ubicar la zona ecológica y verificar con imágenes
+Año de plantación o edad,No existe (solo año de inscripción),Impide estimar crecimiento acumulado
+Supervivencia o estado actual,No existe,No se sabe cuánta superficie inscrita sigue en pie
+Proporción de cada especie en plantaciones mixtas,No existe,5714 plantaciones mixtas no se pueden asignar a una sola especie
+"Densidad, DAP, altura",No existe,Impide estimar biomasa con ecuaciones alométricas
+Especie,168 filas sin dato,Menor; se marca
+Identificación a especie,956 filas solo a género,Se agrupan por género

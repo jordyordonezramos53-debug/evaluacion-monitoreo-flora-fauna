@@ -1,0 +1,13 @@
+archivo_origen,regla,columna,n_afectados,unidad,tipo,descripcion
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R01,todas,32754,filas,transformación,Renombrar columnas a snake_case sin tildes ni espacios (interoperabilidad).
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R02,texto,32749,filas,corrección,"Quitar espacios al inicio, al final y dobles. No cambia el contenido."
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R03,"titular, numero_documento",32754,filas,protección de datos,Se reemplazan nombre y número de documento por un código (12921 titulares). La correspondencia NO se guarda ni se publica.
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R04,"periodo, fecha_corte, superficie_plantacion_ha",32754,filas,transformación,"Periodo a entero, fecha de corte a formato ISO 8601 (AAAA-MM-DD), superficie a número."
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R05,superficie_plantacion_ha,16,filas,marca,"Superficie = 0 ha. Se conserva el valor original, se marca y se excluye de las sumas."
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R06,superficie_plantacion_ha,1214,plantaciones,marca,"Plantación con superficie > 13.78 ha (Q3 + 3·IQR). Valor inusual, no error: se conserva."
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R07,"especie_original -> nombre_aceptado, familia",32586,filas,transformación,Se agrega el nombre aceptado según GBIF sin borrar el nombre registrado. Sinónimos actualizados: 3746 filas; por revisar a mano: 1111 filas.
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R12,"nombre_aceptado, familia, rango_taxonomico",1111,filas,corrección,"Revisión manual de 40 nombres que GBIF no resolvió (identificados a género, homónimos resueltos por autor, errores de escritura y un híbrido). Decisiones y justificación en revision_taxonomica_manual.csv."
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R08,especie_original,168,filas,marca,Fila sin especie. Se conserva porque su superficie sigue contando para la plantación.
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R09,"id_plantacion, especie_original",129,filas,marca,No son duplicados exactos: cambian la finalidad o el tipo de plantación. No se eliminan.
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R10,superficie_plantacion_ha,22173,filas,documentación,La superficie es de la plantación completa y se repite en cada especie: NO sumar por filas.
+Plantaciones_208.xls (SHA-256 dc98fc142b13…),R11,finalidad,25,plantaciones,marca,"Plantaciones con más de una finalidad inscrita (se listan todas, separadas por '|')."
