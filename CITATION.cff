@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "Si usas este repositorio, cítalo con estos datos. Los datos originales son del SERFOR (licencia ODC-BY): cita también la fuente."
+title: "Remociones potenciales de CO2 de las plantaciones forestales inscritas en el Perú: curaduría FAIR del registro del SERFOR"
+type: dataset
+version: "1.1"
+date-released: "2026-11-17"
+doi: "10.5281/zenodo.24328237"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24328237"
+    description: "DOI de todas las versiones (Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.24328238"
+    description: "DOI de la versión 1.1"
+repository-code: "https://github.com/jordyordonezramos53-debug/practica-carbono-plantaciones"
+abstract: "Base curada, seudonimizada y reproducible del Registro Nacional de Plantaciones Forestales del SERFOR (corte 11/06/2025), con evaluación FAIR, exportación Darwin Core y una propuesta de investigación sobre remociones potenciales de CO2. Práctica del curso Evaluación y Monitoreo de Flora, Fauna y Sistemas Ecológicos."
+keywords:
+  - curaduría de datos
+  - FAIR
+  - plantaciones forestales
+  - carbono
+  - Darwin Core
+  - Perú
+authors:
+  - family-names: "Guardia Romero"
+    given-names: "Ángel David"
+  - family-names: "Ordoñez Ramos"
+    given-names: "Esthif Jordy"
+  - family-names: "Paucar Donayre"
+    given-names: "Mathias Salvador"
+  - family-names: "Paucar Quispe"
+    given-names: "Cielo Margoth"
+  - family-names: "Ramirez Pastrana"
+    given-names: "Katerin Yasuri"
+  - family-names: "Salvatierra Quispe"
+    given-names: "Giuliana Anais Amalia"
+  - family-names: "Sotomayor Acosta"
+    given-names: "Raulino Matsue"
+  - family-names: "Villegas Estrella"
+    given-names: "Lesli Sandra"
+references:
+  - type: dataset
+    title: "Plantaciones forestales inscritas en el Registro Nacional de Plantaciones Forestales, por especie"
+    authors:
+      - name: "Servicio Nacional Forestal y de Fauna Silvestre (SERFOR)"
+    url: "https://www.datosabiertos.gob.pe/dataset/plantaciones-forestales-inscritas-en-el-registro-nacional-de-plantaciones-forestales-por"
+    license: ODC-By-1.0
