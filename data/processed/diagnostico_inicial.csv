@@ -1,0 +1,33 @@
+indicador,valor,comentario
+filas (plantación × especie),32754,Cada fila es una inscripción por especie
+columnas,19,
+plantaciones únicas (ID),16204,
+plantaciones con más de una especie,5739,
+plantaciones con superficie distinta entre sus filas,0,0 = la superficie se repite idéntica en cada fila de especie
+superficie sumando todas las filas (ha),292348.04,INCORRECTO: cuenta varias veces la misma plantación
+superficie contando cada plantación una vez (ha),110851.79,Valor correcto
+factor de sobreestimación,2.64,
+periodo mínimo,2014,
+periodo máximo,2025,
+fecha de corte,20250611,
+filas sin especie,168,
+filas sin titular,1,
+filas repetidas exactas,0,
+filas con mismo ID y especie,68,Difieren en finalidad o tipo de plantación: no son duplicados
+plantaciones con más de una finalidad,25,
+superficie = 0 ha,16,Error verificable: una plantación inscrita no puede medir 0 ha
+superficie no numérica,0,
+"límite de atípico por plantación (Q3 + 3·IQR, ha)",13.78,
+plantaciones atípicas (> límite),1214,"Se marcan, no se eliminan"
+plantaciones > 500 ha,22,
+superficie máxima (ha),3587.7,
+UBIGEO con longitud distinta de 6,0,
+UBIGEO con más de un nombre de lugar,0,
+prefijo de UBIGEO con más de un departamento,0,
+DNI con longitud distinta de 8,0,
+RUC con longitud distinta de 11,0,
+nombres de especie distintos (texto),536,
+nombres con más de dos palabras (autor o categoría infraespecífica),235,"El mismo taxón aparece con y sin autor, p. ej. 'Guadua angustifolia' y 'Guadua angustifolia Kunth'"
+nombres identificados solo a género (sp./spp.),33,
+nombres con espacios sobrantes,9,
+CSV 2022: filas desalineadas,14433,"Distribución de campos por fila: {18: 787, 19: 13345, 20: 1037, 21: 36, 22: 8, 23: 2, 24: 3, 25: 2}"
