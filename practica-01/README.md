@@ -1,5 +1,7 @@
 # Práctica 1
 
+**Competencias teóricas, prácticas y actitudinales que requiere un ingeniero ambiental para atender instrumentos de gestión ambiental que incluyen la evaluación y monitoreo de flora, fauna y sistemas ecológicos**
+
 Práctica individual. Cada integrante sube su trabajo en su carpeta.
 
 | Integrante | Carpeta |

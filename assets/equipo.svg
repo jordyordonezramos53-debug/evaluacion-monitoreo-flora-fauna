@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-labelledby="t d">
+<title id="t">Integrantes del grupo Las Abejitas</title>
+<desc id="d">Guardia Romero, Ángel David (2024021549); Ordoñez Ramos, Esthif Jordy (2024021736); Paucar Donayre, Mathias Salvador (2024021772); Paucar Quispe, Cielo Margoth (2024021763); Ramirez Pastrana, Katerin Yasuri (2024021852); Salvatierra Quispe, Giuliana Anais Amalia (2024021914); Sotomayor Acosta, Raulino Matsue (2024034643); Villegas Estrella, Lesli Sandra (2024022056)</desc>
+<defs><clipPath id="cuerpo"><ellipse cx="0" cy="0" rx="15" ry="10"/></clipPath></defs>
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.num{font-size:13px;font-weight:700;letter-spacing:2px;opacity:.75}
+.ap{font-size:14.5px;font-weight:700}
+.nom{font-size:13px}
+.cod{font-size:12px;letter-spacing:1px}
+.entra{opacity:0;transform-box:fill-box;transform-origin:50% 50%;animation:entra .7s cubic-bezier(.2,.8,.3,1.2) forwards}
+@keyframes entra{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+.celda{animation:brillo 8s ease-in-out infinite}
+@keyframes brillo{0%,85%,100%{stroke:#ffffff;stroke-width:3}92%{stroke:#f6c445;stroke-width:6}}
+.estela{fill:none;stroke:#f6c445;stroke-width:1.6;stroke-linecap:round;stroke-dasharray:1 10;opacity:.6;animation:estela 1.3s linear infinite}
+@keyframes estela{to{stroke-dashoffset:-22}}
+.ala{transform-box:fill-box;transform-origin:50% 100%;animation:aleteo .11s ease-in-out infinite alternate}
+.a2{animation-delay:.05s}
+@keyframes aleteo{from{transform:scaleY(1)}to{transform:scaleY(.3)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.aparece,.entra{opacity:1!important}}
+</style>
+<path class="estela" d="M 120 330 C 300 380, 520 400, 700 370 S 960 300, 930 180 S 820 20, 600 30 S 200 60, 120 180 S 60 300, 120 330 Z"/>
+<g class="entra" style="animation-delay:0.00s">
+  <polygon class="celda" style="animation-delay:0s" points="221.0,20.0 300.7,66.0 300.7,158.0 221.0,204.0 141.3,158.0 141.3,66.0" fill="#f6c445" stroke="#ffffff" stroke-width="3"/>
+  <text x="221" y="68" text-anchor="middle" class="num" fill="#14302A">01</text>
+  <text x="221" y="104" text-anchor="middle" class="ap" fill="#14302A">Guardia Romero</text>
+  <text x="221" y="126" text-anchor="middle" class="nom" fill="#14302A">Ángel David</text>
+  <text x="221" y="156" text-anchor="middle" class="cod" fill="#3d3a1c">2024021549</text>
+</g><g class="entra" style="animation-delay:0.15s">
+  <polygon class="celda" style="animation-delay:1s" points="383.0,20.0 462.7,66.0 462.7,158.0 383.0,204.0 303.3,158.0 303.3,66.0" fill="#2f7d5b" stroke="#ffffff" stroke-width="3"/>
+  <text x="383" y="68" text-anchor="middle" class="num" fill="#ffffff">02</text>
+  <text x="383" y="104" text-anchor="middle" class="ap" fill="#ffffff">Ordoñez Ramos</text>
+  <text x="383" y="126" text-anchor="middle" class="nom" fill="#ffffff">Esthif Jordy</text>
+  <text x="383" y="156" text-anchor="middle" class="cod" fill="#d6ece0">2024021736</text>
+</g><g class="entra" style="animation-delay:0.30s">
+  <polygon class="celda" style="animation-delay:2s" points="545.0,20.0 624.7,66.0 624.7,158.0 545.0,204.0 465.3,158.0 465.3,66.0" fill="#f6c445" stroke="#ffffff" stroke-width="3"/>
+  <text x="545" y="68" text-anchor="middle" class="num" fill="#14302A">03</text>
+  <text x="545" y="104" text-anchor="middle" class="ap" fill="#14302A">Paucar Donayre</text>
+  <text x="545" y="126" text-anchor="middle" class="nom" fill="#14302A">Mathias Salvador</text>
+  <text x="545" y="156" text-anchor="middle" class="cod" fill="#3d3a1c">2024021772</text>
+</g><g class="entra" style="animation-delay:0.45s">
+  <polygon class="celda" style="animation-delay:3s" points="707.0,20.0 786.7,66.0 786.7,158.0 707.0,204.0 627.3,158.0 627.3,66.0" fill="#2f7d5b" stroke="#ffffff" stroke-width="3"/>
+  <text x="707" y="68" text-anchor="middle" class="num" fill="#ffffff">04</text>
+  <text x="707" y="104" text-anchor="middle" class="ap" fill="#ffffff">Paucar Quispe</text>
+  <text x="707" y="126" text-anchor="middle" class="nom" fill="#ffffff">Cielo Margoth</text>
+  <text x="707" y="156" text-anchor="middle" class="cod" fill="#d6ece0">2024021763</text>
+</g><g class="entra" style="animation-delay:0.60s">
+  <polygon class="celda" style="animation-delay:4s" points="302.0,158.0 381.7,204.0 381.7,296.0 302.0,342.0 222.3,296.0 222.3,204.0" fill="#2f7d5b" stroke="#ffffff" stroke-width="3"/>
+  <text x="302" y="206" text-anchor="middle" class="num" fill="#ffffff">05</text>
+  <text x="302" y="242" text-anchor="middle" class="ap" fill="#ffffff">Ramirez Pastrana</text>
+  <text x="302" y="264" text-anchor="middle" class="nom" fill="#ffffff">Katerin Yasuri</text>
+  <text x="302" y="294" text-anchor="middle" class="cod" fill="#d6ece0">2024021852</text>
+</g><g class="entra" style="animation-delay:0.75s">
+  <polygon class="celda" style="animation-delay:5s" points="464.0,158.0 543.7,204.0 543.7,296.0 464.0,342.0 384.3,296.0 384.3,204.0" fill="#f6c445" stroke="#ffffff" stroke-width="3"/>
+  <text x="464" y="206" text-anchor="middle" class="num" fill="#14302A">06</text>
+  <text x="464" y="242" text-anchor="middle" class="ap" fill="#14302A">Salvatierra Quispe</text>
+  <text x="464" y="264" text-anchor="middle" class="nom" fill="#14302A">Giuliana Anais Amalia</text>
+  <text x="464" y="294" text-anchor="middle" class="cod" fill="#3d3a1c">2024021914</text>
+</g><g class="entra" style="animation-delay:0.90s">
+  <polygon class="celda" style="animation-delay:6s" points="626.0,158.0 705.7,204.0 705.7,296.0 626.0,342.0 546.3,296.0 546.3,204.0" fill="#2f7d5b" stroke="#ffffff" stroke-width="3"/>
+  <text x="626" y="206" text-anchor="middle" class="num" fill="#ffffff">07</text>
+  <text x="626" y="242" text-anchor="middle" class="ap" fill="#ffffff">Sotomayor Acosta</text>
+  <text x="626" y="264" text-anchor="middle" class="nom" fill="#ffffff">Raulino Matsue</text>
+  <text x="626" y="294" text-anchor="middle" class="cod" fill="#d6ece0">2024034643</text>
+</g><g class="entra" style="animation-delay:1.05s">
+  <polygon class="celda" style="animation-delay:7s" points="788.0,158.0 867.7,204.0 867.7,296.0 788.0,342.0 708.3,296.0 708.3,204.0" fill="#f6c445" stroke="#ffffff" stroke-width="3"/>
+  <text x="788" y="206" text-anchor="middle" class="num" fill="#14302A">08</text>
+  <text x="788" y="242" text-anchor="middle" class="ap" fill="#14302A">Villegas Estrella</text>
+  <text x="788" y="264" text-anchor="middle" class="nom" fill="#14302A">Lesli Sandra</text>
+  <text x="788" y="294" text-anchor="middle" class="cod" fill="#3d3a1c">2024022056</text>
+</g>
+<g><g>
+  <ellipse class="ala" cx="-3" cy="-9" rx="7" ry="10" fill="#eaf6ff" opacity=".85"/>
+  <ellipse class="ala a2" cx="6" cy="-9" rx="6" ry="9" fill="#eaf6ff" opacity=".65"/>
+  <ellipse cx="0" cy="0" rx="15" ry="10" fill="#f6c445"/>
+  <g clip-path="url(#cuerpo)"><rect x="-7" y="-11" width="4" height="22" fill="#1b1b1b"/><rect x="1" y="-11" width="4" height="22" fill="#1b1b1b"/></g>
+  <circle cx="15" cy="-1" r="6.5" fill="#1b1b1b"/>
+  <circle cx="17.5" cy="-3" r="1.5" fill="#fff"/>
+  <path d="M-15 -2 l-6 2.5 l6 2.5z" fill="#1b1b1b"/>
+  <path d="M17 -6 q3 -8 8 -9 M14 -6 q0 -8 4 -11" stroke="#1b1b1b" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+</g><animateMotion dur="14s" repeatCount="indefinite" path="M 120 330 C 300 380, 520 400, 700 370 S 960 300, 930 180 S 820 20, 600 30 S 200 60, 120 180 S 60 300, 120 330 Z"/></g>
+</svg>
